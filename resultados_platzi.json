@@ -1,0 +1,3127 @@
+[
+  {
+    "route-title": "Fotografía Digital",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fotografia-d9a7b2a3-b724-45d2-bb68-26a184126b1b.png",
+        "name": "Curso de Fundamentos de Fotografía",
+        "url": "https://platzi.com/cursos/fotografia/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1260-96b9750a-e31f-4c0e-a6ca-fdacd94b38aa.png",
+        "name": "Curso de Introducción al Lenguaje Audiovisual",
+        "url": "https://platzi.com/cursos/lenguaje-audiovisual/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-tecnicas-fotograficas-9808f4c7-d61f-4c58-ad24-00c60885e1f1.png",
+        "name": "Curso de Técnicas Fotográficas para Producto y Retrato en Redes Sociales",
+        "url": "https://platzi.com/cursos/fotografia-redes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1230-b90f9a3e-a148-40d2-aabd-76c57bf3dd76.png",
+        "name": "Curso Básico de Photoshop",
+        "url": "https://platzi.com/cursos/photoshop-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1143-a580696d-3705-4d16-991a-5c135e601e5c.png",
+        "name": "Curso de Fotografía y Lightroom",
+        "url": "https://platzi.com/cursos/lightroom/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-tecnicas-ilumicacion-043c6ee6-44e8-410a-906e-457dac251e1f.png",
+        "name": "Curso de Técnicas de Fotografía e Iluminación para Producción Audiovisual",
+        "url": "https://platzi.com/cursos/tecnicas-iluminacion/"
+      }
+    ]
+  },
+  {
+    "route-title": "Producción de Video",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-produccion-audiovisual-255a80f6-2c64-492b-b29d-2c256558d231.png",
+        "name": "Curso de Introducción a la Producción Audiovisual Cinematográfica",
+        "url": "https://platzi.com/cursos/produccion-audiovisual-cinematografica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1260-96b9750a-e31f-4c0e-a6ca-fdacd94b38aa.png",
+        "name": "Curso de Introducción al Lenguaje Audiovisual",
+        "url": "https://platzi.com/cursos/lenguaje-audiovisual/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-storytelling-f25c9ca5-298e-485d-8470-2c7a532e211c.png",
+        "name": "Curso de Storytelling",
+        "url": "https://platzi.com/cursos/storytelling/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-introduccion-edicion-premiere--8a48cb73-1bfd-487c-a741-15fd8b1796e0.png",
+        "name": "Curso de Introducción a la Edición con Premiere",
+        "url": "https://platzi.com/cursos/premiere/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-tecnicas-ilumicacion-043c6ee6-44e8-410a-906e-457dac251e1f.png",
+        "name": "Curso de Técnicas de Fotografía e Iluminación para Producción Audiovisual",
+        "url": "https://platzi.com/cursos/tecnicas-iluminacion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1364-6b54c751-2440-4fb2-9340-f6779f9b6c0a.png",
+        "name": "Curso de Audio para Producciones Audiovisuales",
+        "url": "https://platzi.com/cursos/audio-produccion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-contenido-youtube-a9c68fe9-9289-4153-98e4-4823c2ad8dca.png",
+        "name": "Curso de Fundamentos de Contenido de YouTube",
+        "url": "https://platzi.com/cursos/contenido-youtube/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1055-d93696aa-49c5-4b7a-a902-e416ac46c07a.png",
+        "name": "Curso de Producción para Youtube",
+        "url": "https://platzi.com/cursos/youtube/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-contenidos-digitales-82cb6788-520c-48c4-9e1e-98fb0e5e40ba.png",
+        "name": "Curso de Estrategia y Creación de Contenido Digital",
+        "url": "https://platzi.com/cursos/contenidos-digitales/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1404-52839721-bd55-4ce1-b616-75d794ad8167.png",
+        "name": "Curso de Motion Graphics",
+        "url": "https://platzi.com/cursos/motion-graphics/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fotografia-telefono-0cc8d16d-c8d5-4ce6-8eb7-346127e01bdc.png",
+        "name": "Curso de Fotografía con tu Teléfono",
+        "url": "https://platzi.com/cursos/fotografia-telefono/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1388-2855d45f-c79f-4c64-a864-bac1a8074cf4.png",
+        "name": "Curso de Animación de Personajes",
+        "url": "https://platzi.com/cursos/animacion-personajes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-yt-cientifico-575a2061-f92a-49f5-941a-634c04b7e652.png",
+        "name": "Curso de Divulgación Educativa en YouTube",
+        "url": "https://platzi.com/cursos/divulgacion-cientifica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1251-6bb569ec-1f38-4063-977a-a9c2c8fce9a0.png",
+        "name": "Curso de Diseño y Prototipado de Personajes",
+        "url": "https://platzi.com/cursos/prototipado-personajes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1262-724e61b6-882a-4f22-83d4-b13776610e2b.png",
+        "name": "Curso de Edición Avanzada con Adobe Creative Cloud",
+        "url": "https://platzi.com/cursos/edicion-avanzada/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-cinema4d-3e696214-b0d0-4f59-af1c-d93695790bbe.png",
+        "name": "Curso de Cinema 4D: Dirección de arte en proyectos publicitarios",
+        "url": "https://platzi.com/cursos/cinema-4d/"
+      }
+    ]
+  },
+  {
+    "route-title": "Inbound Marketing",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1328-bdfaf9ae-05e1-44c3-9c14-fccbb491a7d3.png",
+        "name": "Curso de Introducción al Marketing Digital",
+        "url": "https://platzi.com/clases/introduccion-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1220-da04fca8-8561-40ce-a678-3585bde8d899.png",
+        "name": "Curso de Marca Personal",
+        "url": "https://platzi.com/clases/marca-personal/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1396-e6d37f15-de5c-48b1-af5d-7bc7b75650ab.png",
+        "name": "Curso de Ortografía Básica",
+        "url": "https://platzi.com/clases/ortografia-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-content-marketing-07dce721-0efe-440c-acdf-8873b4a01fea.png",
+        "name": "Curso de Content Marketing",
+        "url": "https://platzi.com/clases/contenido/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-copywritting-a4f4d99c-cf75-4947-92c9-d49e6fc79741.png",
+        "name": "Curso de Copywriting para Plataformas Digitales",
+        "url": "https://platzi.com/clases/copywriting-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-copy-storytelling-7b2ab3dc-2250-4ac8-b4be-3ccb1338d198.png",
+        "name": "Curso de Copywriting con Técnicas de Storytelling",
+        "url": "https://platzi.com/clases/copy-storytelling/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1283-ba4c98e1-c6e9-466a-b691-12431fd86086.png",
+        "name": "Especialización en Marketing Digital",
+        "url": "https://platzi.com/clases/especializacion-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1051-d3402b00-785c-4c93-abbb-c55330264d66.png",
+        "name": "Curso de Relaciones Públicas y Prensa",
+        "url": "https://platzi.com/clases/relaciones-publicas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1302-0b8cee1d-928c-4f0d-9c7e-e9c3387b5b66.png",
+        "name": "Curso de Community Manager",
+        "url": "https://platzi.com/clases/community-manager/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge_marcadigital.png",
+        "name": "Curso de Construcción de Marca",
+        "url": "https://platzi.com/clases/branding-2016/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-estrategias-content-marketing-b54c867d-faca-4533-919c-d8399921f842.png",
+        "name": "Curso de Estrategias de Content Marketing",
+        "url": "https://platzi.com/clases/content-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1374-7ee28808-497d-4cda-8d40-1442d520defa.png",
+        "name": "Curso de Estrategias de Marketing en Redes Sociales",
+        "url": "https://platzi.com/clases/marketing-redes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/og-posicionamiento-buscadores-df975616-d821-4e3a-92e0-c68952d322e8.png",
+        "name": "Curso de Introducción a SEO: Posicionamiento en Buscadores",
+        "url": "https://platzi.com/clases/seo/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1066-bed35013-4ea1-4fa1-b8b3-060ce03f8320.png",
+        "name": "Curso de SEO: Posicionamiento en buscadores",
+        "url": "https://platzi.com/clases/posicionamiento-buscadores/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1132-1b30b719-8cd7-4572-95aa-5c9b76d6d3c1.png",
+        "name": "Curso de Marketing Móvil",
+        "url": "https://platzi.com/clases/movil/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-growth-mkt-d279e323-f67c-4662-a8c5-8d24b7faa8b9.png",
+        "name": "Curso de Growth Marketing",
+        "url": "https://platzi.com/clases/growth-marketing/"
+      }
+    ]
+  },
+  {
+    "route-title": "Marketing Digital y Estrategia Online",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1328-bdfaf9ae-05e1-44c3-9c14-fccbb491a7d3.png",
+        "name": "Curso de Introducción al Marketing Digital",
+        "url": "https://platzi.com/cursos/introduccion-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-content-marketing-07dce721-0efe-440c-acdf-8873b4a01fea.png",
+        "name": "Curso de Content Marketing",
+        "url": "https://platzi.com/cursos/contenido/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-copy-storytelling-7b2ab3dc-2250-4ac8-b4be-3ccb1338d198.png",
+        "name": "Curso de Copywriting con Técnicas de Storytelling",
+        "url": "https://platzi.com/cursos/copy-storytelling/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1302-0b8cee1d-928c-4f0d-9c7e-e9c3387b5b66.png",
+        "name": "Curso de Community Manager",
+        "url": "https://platzi.com/cursos/community-manager/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1283-ba4c98e1-c6e9-466a-b691-12431fd86086.png",
+        "name": "Especialización en Marketing Digital",
+        "url": "https://platzi.com/cursos/especializacion-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-posicionamiento-marca-3de5f879-f850-4e98-90da-72c8c9713453.png",
+        "name": "Curso de Posicionamiento de Marca en Medios Digitales",
+        "url": "https://platzi.com/cursos/posicionamiento-marca/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1066-bed35013-4ea1-4fa1-b8b3-060ce03f8320.png",
+        "name": "Curso de SEO: Posicionamiento en buscadores",
+        "url": "https://platzi.com/cursos/posicionamiento-buscadores/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-seo-tecnico-c0689fd9-51a9-4585-8af0-5ada1cdce887.png",
+        "name": "Curso de SEO Técnico",
+        "url": "https://platzi.com/cursos/seo-tecnico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-copywritting-a4f4d99c-cf75-4947-92c9-d49e6fc79741.png",
+        "name": "Curso de Copywriting para Plataformas Digitales",
+        "url": "https://platzi.com/cursos/copywriting-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-growth-mkt-d279e323-f67c-4662-a8c5-8d24b7faa8b9.png",
+        "name": "Curso de Growth Marketing",
+        "url": "https://platzi.com/cursos/growth-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1275-275c632f-cdf5-45d4-a520-d95aa111d015.png",
+        "name": "Curso de Excel para el Análisis de Datos",
+        "url": "https://platzi.com/cursos/excel/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-facebook-analytics-7ddd8d69-927c-4162-9ead-975ca66ccb0b.png",
+        "name": "Curso de Facebook Analytics",
+        "url": "https://platzi.com/cursos/fb-analytics/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-estrategias-content-marketing-b54c867d-faca-4533-919c-d8399921f842.png",
+        "name": "Curso de Estrategias de Content Marketing",
+        "url": "https://platzi.com/cursos/content-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1374-7ee28808-497d-4cda-8d40-1442d520defa.png",
+        "name": "Curso de Estrategias de Marketing en Redes Sociales",
+        "url": "https://platzi.com/cursos/marketing-redes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-crisis-redessociales-1-e049eb22-4d69-480b-ad18-4facb6d09720.png",
+        "name": "Curso de Manejo de Crisis en Redes Sociales",
+        "url": "https://platzi.com/cursos/crisis-redes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1290-4615fc49-f87d-4483-8db8-7d9f490b8c53.png",
+        "name": "Curso de Facebook Ads",
+        "url": "https://platzi.com/cursos/facebook-ads/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-google-adwords-2d8350ed-c73d-4d59-be5c-4719e69de13c.png",
+        "name": "Curso Profesional de Google Ads",
+        "url": "https://platzi.com/cursos/google-adwords/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1322-8d6d1875-22a4-4690-9cc5-7cd58654ebfa.png",
+        "name": "Curso de Email Marketing",
+        "url": "https://platzi.com/cursos/email-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-ar-spark-4e2e0f56-da23-49a3-9ef1-ad6fcc3d75e1.png",
+        "name": "Curso de Realidad Aumentada con Spark AR",
+        "url": "https://platzi.com/cursos/spark-ar/"
+      }
+    ]
+  },
+  {
+    "route-title": "Producción de Audio",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1260-96b9750a-e31f-4c0e-a6ca-fdacd94b38aa.png",
+        "name": "Curso de Introducción al Lenguaje Audiovisual",
+        "url": "https://platzi.com/cursos/lenguaje-audiovisual/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1327-bf8a7e9d-c534-4618-83a1-8f59dbe53592.png",
+        "name": "Curso Básico de Producción de Audio con Pro Tools",
+        "url": "https://platzi.com/cursos/edicion-protools/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1364-6b54c751-2440-4fb2-9340-f6779f9b6c0a.png",
+        "name": "Curso de Audio para Producciones Audiovisuales",
+        "url": "https://platzi.com/cursos/audio-produccion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1324-6ef7800d-dd21-4a98-acdd-88da5e3f7e30.png",
+        "name": "Curso de Creación de Podcasts",
+        "url": "https://platzi.com/cursos/creacion-podcasts/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-contenidos-digitales-82cb6788-520c-48c4-9e1e-98fb0e5e40ba.png",
+        "name": "Curso de Estrategia y Creación de Contenido Digital",
+        "url": "https://platzi.com/cursos/contenidos-digitales/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1369-beff89fe-725d-4655-ae18-015ce4a66cf6.png",
+        "name": "Curso de Producción de Audio para Videojuegos",
+        "url": "https://platzi.com/cursos/audio-videojuegos/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo de Apps Multiplataforma con Xamarin",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-algoritmos-c236ef79-8ebb-44c9-b0c0-9f233d6ce18b.png",
+        "name": "Curso Básico de Algoritmos",
+        "url": "https://platzi.com/cursos/algoritmos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-poo-513deb20-a5bd-40a7-b97a-c36dc772d512.png",
+        "name": "Curso de Programación Orientada a Objetos: POO",
+        "url": "https://platzi.com/cursos/oop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1247-4f5b5d04-4b56-4e64-bec2-db8fe3c0aa18.png",
+        "name": "Fundamentos de Arquitectura de Software",
+        "url": "https://platzi.com/cursos/arquitectura-software/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1375-954e9dd1-7577-476e-a2e1-85710d5d2c62.png",
+        "name": "Fundamentos de C# con NET Core",
+        "url": "https://platzi.com/cursos/fundamentos-csharp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1359-c2172b91-9378-4db4-ba81-91aa8413770c.png",
+        "name": "Curso de C# con .Net Core",
+        "url": "https://platzi.com/cursos/c-sharp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1395-53eb64f8-b633-449e-bf2e-6d0d83ff54dd.png",
+        "name": "Curso de ASP.NET Core",
+        "url": "https://platzi.com/cursos/aspnet-core/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1314-7c6a9d89-7ff0-4fe4-b560-fbc3b7361b88.png",
+        "name": "Curso de Xamarin.Forms",
+        "url": "https://platzi.com/cursos/xamarin-forms/"
+      }
+    ]
+  },
+  {
+    "route-title": "Email Marketing",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1328-bdfaf9ae-05e1-44c3-9c14-fccbb491a7d3.png",
+        "name": "Curso de Introducción al Marketing Digital",
+        "url": "https://platzi.com/cursos/introduccion-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1396-e6d37f15-de5c-48b1-af5d-7bc7b75650ab.png",
+        "name": "Curso de Ortografía Básica",
+        "url": "https://platzi.com/cursos/ortografia-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1132-1b30b719-8cd7-4572-95aa-5c9b76d6d3c1.png",
+        "name": "Curso de Marketing Móvil",
+        "url": "https://platzi.com/cursos/movil/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1322-8d6d1875-22a4-4690-9cc5-7cd58654ebfa.png",
+        "name": "Curso de Email Marketing",
+        "url": "https://platzi.com/cursos/email-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1230-b90f9a3e-a148-40d2-aabd-76c57bf3dd76.png",
+        "name": "Curso Básico de Photoshop",
+        "url": "https://platzi.com/cursos/photoshop-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1350-09ddb033-354b-4c0c-84a4-56cbb71d0b08.png",
+        "name": "Curso de Desarrollo Web Online",
+        "url": "https://platzi.com/cursos/html5-css3/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-html-css-email-0306f75d-b180-4ccd-996a-b0768001d2f1.png",
+        "name": "Curso de Diseño y Maquetación para Emails",
+        "url": "https://platzi.com/cursos/diseno-email/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      }
+    ]
+  },
+  {
+    "route-title": "Marketing Basado en Datos",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/clases/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/clases/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1275-275c632f-cdf5-45d4-a520-d95aa111d015.png",
+        "name": "Curso de Excel para el Análisis de Datos",
+        "url": "https://platzi.com/clases/excel/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-growth-mkt-d279e323-f67c-4662-a8c5-8d24b7faa8b9.png",
+        "name": "Curso de Growth Marketing",
+        "url": "https://platzi.com/clases/growth-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1132-1b30b719-8cd7-4572-95aa-5c9b76d6d3c1.png",
+        "name": "Curso de Marketing Móvil",
+        "url": "https://platzi.com/clases/movil/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1290-4615fc49-f87d-4483-8db8-7d9f490b8c53.png",
+        "name": "Curso de Facebook Ads",
+        "url": "https://platzi.com/clases/facebook-ads/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1291-cd4c7e20-dd64-4e88-a922-8a20e77f224b.png",
+        "name": "Curso de Instagram Ads y Optimización de Campañas",
+        "url": "https://platzi.com/clases/instagram/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-google-adwords-2d8350ed-c73d-4d59-be5c-4719e69de13c.png",
+        "name": "Curso Profesional de Google Ads",
+        "url": "https://platzi.com/clases/google-adwords/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-google-analytics-c54e9d43-be06-4319-8def-433c66b7d558.png",
+        "name": "Curso de Google Analytics",
+        "url": "https://platzi.com/clases/google-analytics/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-facebook-analytics-7ddd8d69-927c-4162-9ead-975ca66ccb0b.png",
+        "name": "Curso de Facebook Analytics",
+        "url": "https://platzi.com/clases/fb-analytics/"
+      }
+    ]
+  },
+  {
+    "route-title": "Outbound Marketing",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1328-bdfaf9ae-05e1-44c3-9c14-fccbb491a7d3.png",
+        "name": "Curso de Introducción al Marketing Digital",
+        "url": "https://platzi.com/cursos/introduccion-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-copywritting-a4f4d99c-cf75-4947-92c9-d49e6fc79741.png",
+        "name": "Curso de Copywriting para Plataformas Digitales",
+        "url": "https://platzi.com/cursos/copywriting-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-google-adwords-2d8350ed-c73d-4d59-be5c-4719e69de13c.png",
+        "name": "Curso Profesional de Google Ads",
+        "url": "https://platzi.com/cursos/google-adwords/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1290-4615fc49-f87d-4483-8db8-7d9f490b8c53.png",
+        "name": "Curso de Facebook Ads",
+        "url": "https://platzi.com/cursos/facebook-ads/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1291-cd4c7e20-dd64-4e88-a922-8a20e77f224b.png",
+        "name": "Curso de Instagram Ads y Optimización de Campañas",
+        "url": "https://platzi.com/cursos/instagram/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-facebook-analytics-7ddd8d69-927c-4162-9ead-975ca66ccb0b.png",
+        "name": "Curso de Facebook Analytics",
+        "url": "https://platzi.com/cursos/fb-analytics/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-growth-mkt-d279e323-f67c-4662-a8c5-8d24b7faa8b9.png",
+        "name": "Curso de Growth Marketing",
+        "url": "https://platzi.com/cursos/growth-marketing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1051-d3402b00-785c-4c93-abbb-c55330264d66.png",
+        "name": "Curso de Relaciones Públicas y Prensa",
+        "url": "https://platzi.com/cursos/relaciones-publicas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1283-ba4c98e1-c6e9-466a-b691-12431fd86086.png",
+        "name": "Especialización en Marketing Digital",
+        "url": "https://platzi.com/cursos/especializacion-marketing/"
+      }
+    ]
+  },
+  {
+    "route-title": "Arquitectura Frontend",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-html-css-b0a71550-d5e7-4e27-aca2-f09f1321a517.png",
+        "name": "Curso de HTML y CSS",
+        "url": "https://platzi.com/clases/html-css/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1350-09ddb033-354b-4c0c-84a4-56cbb71d0b08.png",
+        "name": "Curso de Desarrollo Web Online",
+        "url": "https://platzi.com/clases/html5-css3/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1362-87c8ad3d-a50d-41a2-b023-ad838594e1c9.png",
+        "name": "Curso de Responsive Design",
+        "url": "https://platzi.com/clases/responsive-design/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1229-dbff8a06-bcca-48e9-98e3-1fd76d6216f3.png",
+        "name": "Curso de CSS Grid Layout",
+        "url": "https://platzi.com/clases/css-grid-layout/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-javascript-61c15bdf-0a83-4aed-8537-b4753e4071e1.png",
+        "name": "Fundamentos de JavaScript",
+        "url": "https://platzi.com/clases/fundamentos-javascript/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1316-718fb32b-2ab6-4042-a25b-ac2169e05cc3.png",
+        "name": "Curso de jQuery a JavaScript",
+        "url": "https://platzi.com/clases/jquery-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/clases/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-preprocesadores-8c2ed161-d4f1-4d08-bb9e-9e741cdd539d.png",
+        "name": "Curso de Preprocesadores CSS",
+        "url": "https://platzi.com/clases/preprocesadores/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1244-caa8d210-5abc-4728-b21a-609a23a572a7.png",
+        "name": "Curso de Sass",
+        "url": "https://platzi.com/clases/sass/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1242-bab42328-f5da-42e3-a0a6-d4511ff49de9.png",
+        "name": "Curso de PostCSS",
+        "url": "https://platzi.com/clases/postcss/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1246-d7de29a9-8c73-46e5-9383-dbf46d54c294.png",
+        "name": "Curso de Less",
+        "url": "https://platzi.com/clases/less/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1245-816d993b-07dd-464b-8f62-8edacfb5eff5.png",
+        "name": "Curso de Stylus",
+        "url": "https://platzi.com/clases/stylus/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1331-cda68a62-24e5-464a-95ca-6e5d339c7244.png",
+        "name": "Curso de Bootstrap",
+        "url": "https://platzi.com/clases/bootstrap/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-sistemas-desarrolladores-041a4def-ce1a-4e88-9c84-eb3eff740433.png",
+        "name": "Curso de Sistemas de Diseño para Desarrolladores",
+        "url": "https://platzi.com/clases/diseno-desarrolladores/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1103-0dce9ce6-dd88-466b-af07-76a87643c8b7.png",
+        "name": "Curso de Animaciones para la Web",
+        "url": "https://platzi.com/clases/animaciones-web/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1332-e7c13608-2eb0-4b71-b6db-3de781bd56c5.png",
+        "name": "Curso de Foundation",
+        "url": "https://platzi.com/clases/foundation/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-react-2018-afc93257-48af-4e54-acaa-4d0433380f64.png",
+        "name": "Curso de React.js",
+        "url": "https://platzi.com/clases/react/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1340-7609a8dc-f858-4863-abeb-02a7dbbf59c1.png",
+        "name": "Curso de Angular 6",
+        "url": "https://platzi.com/clases/angular-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-unit-testing-jasmine-21b68d60-2a18-4a8c-9d72-6b72549dd2af.png",
+        "name": "Curso de Unit Testing para MEAN con Jasmine",
+        "url": "https://platzi.com/clases/pruebas-unitarias/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1390-a7211209-7103-496d-958a-52cb8b05b116.png",
+        "name": "Curso de WPO: Optimización de Carga de Sitios Web",
+        "url": "https://platzi.com/clases/optimizacion-web/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo Backend con Go",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-postgresql-2f962bec-2552-403a-803d-85db006f2731.png",
+        "name": "Curso de PostgreSQL",
+        "url": "https://platzi.com/cursos/postgresql/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1149-22b2c616-ccca-4d67-aefe-e0d3bc0c9f8b.png",
+        "name": "Curso de Programación en Go",
+        "url": "https://platzi.com/cursos/go-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-fundamentos-docker-ef085173-492c-4076-b457-78af9155f8c0.png",
+        "name": "Fundamentos de Docker",
+        "url": "https://platzi.com/cursos/docker/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1247-4f5b5d04-4b56-4e64-bec2-db8fe3c0aa18.png",
+        "name": "Fundamentos de Arquitectura de Software",
+        "url": "https://platzi.com/cursos/arquitectura-software/"
+      }
+    ]
+  },
+  {
+    "route-title": "Frontend con React.js",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-react-2018-afc93257-48af-4e54-acaa-4d0433380f64.png",
+        "name": "Curso de React.js",
+        "url": "https://platzi.com/cursos/react/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-webpack-e9f63293-1e52-4bd1-90b7-82740c8131a9.png",
+        "name": "Curso de Webpack",
+        "url": "https://platzi.com/cursos/webpack/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1342-b3aca9a0-32a2-4d6b-ad81-9edf7f982fb5.png",
+        "name": "Curso de React Router",
+        "url": "https://platzi.com/cursos/react-router/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-graphql-2e658b66-c0b9-4b33-8f84-c1b7311be302.png",
+        "name": "Curso Básico de GraphQL",
+        "url": "https://platzi.com/cursos/graphql/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1311-3feb09d7-e4a1-4259-a0b9-12c873e1d730.png",
+        "name": "Curso de Next.js",
+        "url": "https://platzi.com/cursos/next-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-gatsby-b15055e8-fc3c-45c8-92b9-f5679289dd19.png",
+        "name": "Curso de Desarrollo de Aplicaciones Web con Gatsby JS",
+        "url": "https://platzi.com/cursos/gatsby/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1313-96cfddb0-624d-4a3b-8f1c-7e75660fb7a1.png",
+        "name": "Curso de Progressive Web Apps con React.js",
+        "url": "https://platzi.com/cursos/pwa-react-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1292-15445c40-d850-46ba-82f1-886ed3455c53.png",
+        "name": "Curso de React Native",
+        "url": "https://platzi.com/cursos/react-native/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-reactjs-avanzado-bc9f61e9-9a1a-485b-b0ad-43a172cdb0aa.png",
+        "name": "Curso de React Avanzado",
+        "url": "https://platzi.com/cursos/react-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-redux-d62a60e2-00b8-43aa-97e8-fa0b5d574fcc.png",
+        "name": "Curso de Redux por Bedu",
+        "url": "https://platzi.com/cursos/redux/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1124-a91c148f-2b36-4a21-9354-c3b2170339e9.png",
+        "name": "Curso de Electron: Apps de escritorio en Windows y Mac",
+        "url": "https://platzi.com/cursos/electron/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo de Aplicaciones con ASP .NET",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-ing-software-2017-18f503fd-36bd-42d8-b1a1-492865659687.png",
+        "name": "Fundamentos de Ingeniería de Software",
+        "url": "https://platzi.com/cursos/ingenieria/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1375-954e9dd1-7577-476e-a2e1-85710d5d2c62.png",
+        "name": "Fundamentos de C# con NET Core",
+        "url": "https://platzi.com/cursos/fundamentos-csharp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1359-c2172b91-9378-4db4-ba81-91aa8413770c.png",
+        "name": "Curso de C# con .Net Core",
+        "url": "https://platzi.com/cursos/c-sharp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1395-53eb64f8-b633-449e-bf2e-6d0d83ff54dd.png",
+        "name": "Curso de ASP.NET Core",
+        "url": "https://platzi.com/cursos/aspnet-core/"
+      }
+    ]
+  },
+  {
+    "route-title": "Gestión de Proyectos",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamento-gestion-proyectos-2f8ccca7-8f51-4a7b-abe2-dadf9d27dab4.png",
+        "name": "Curso de Fundamentos de Gestión de Proyectos",
+        "url": "https://platzi.com/clases/gestion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1300-2d2cc631-d673-47c5-a062-1adf6e7dd2c0.png",
+        "name": "Curso de Liderazgo para Equipos de Trabajo",
+        "url": "https://platzi.com/clases/liderazgo-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-tecnicas-negociacion-71637158-019b-4618-8adf-779930797db0.png",
+        "name": "Curso de Técnicas de Negociación",
+        "url": "https://platzi.com/clases/tecnicas-negociacion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-comunicacion-efectiva-a1d71b51-aca4-4e53-8d6e-a3829c28dfa3.png",
+        "name": "Curso de Comunicación Efectiva para Equipos",
+        "url": "https://platzi.com/clases/comunicacion-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1400-140d7631-f476-46cf-afa4-8368c9ecf340.png",
+        "name": "Curso de Administración de Actividades con Trello",
+        "url": "https://platzi.com/clases/trello/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1275-275c632f-cdf5-45d4-a520-d95aa111d015.png",
+        "name": "Curso de Excel para el Análisis de Datos",
+        "url": "https://platzi.com/clases/excel/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1401-1aa3b4ef-6dc1-4995-894a-f8ac475de6eb.png",
+        "name": "Curso de Google Suite",
+        "url": "https://platzi.com/clases/google-suite/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-scrum-9aaa566f-eb7c-4676-9e55-d36565ec582e.png",
+        "name": "Curso de Scrum",
+        "url": "https://platzi.com/clases/scrum/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-motivacion-687a8461-a5f5-4654-b52d-cdd2accda537.png",
+        "name": "Curso de Motivación para Equipos de Trabajo",
+        "url": "https://platzi.com/clases/motivacion-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1215-cbe067dd-9e4e-46ff-8df2-2ec29fe802b1.png",
+        "name": "Curso de Certificación PMP",
+        "url": "https://platzi.com/clases/certificacion-pmp/"
+      }
+    ]
+  },
+  {
+    "route-title": "Diseño de Interfaces (UI)",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1228-16a010ab-8b53-43b2-8819-8a552ad16e12.png",
+        "name": "Curso de Introducción al Diseño",
+        "url": "https://platzi.com/cursos/fundamentos-diseno/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-design-thinking-9d9709bd-6e94-4495-8e79-fa310e6f5ae8.png",
+        "name": "Curso de Design Thinking con Minds Garage",
+        "url": "https://platzi.com/cursos/design-thinking/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-product-designer-aerolab-78e9f8a1-dbd7-49d2-87e6-88120999f280.png",
+        "name": "Cómo ser un Product Designer por Aerolab",
+        "url": "https://platzi.com/cursos/product-designer/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1254-df7e1ca9-9406-43b0-bc46-8dfaaa960c43.png",
+        "name": "Introducción al Diseño de Prototipos",
+        "url": "https://platzi.com/cursos/prototipado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1230-b90f9a3e-a148-40d2-aabd-76c57bf3dd76.png",
+        "name": "Curso Básico de Photoshop",
+        "url": "https://platzi.com/cursos/photoshop-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1366-df90963e-ac38-43f0-8d9d-0be72e85a3a2.png",
+        "name": "Curso de Photoshop para Diseño de Interfaces",
+        "url": "https://platzi.com/cursos/photoshop-web/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-arquitectura-informacion-c237b5f1-8525-42f8-b889-020b8d95bd63.png",
+        "name": "Curso de Arquitectura de la Información con Usaria",
+        "url": "https://platzi.com/cursos/arquitectura-informacion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-interfaces-cf6c1320-4ab9-4a67-881d-6b9f712488ae.png",
+        "name": "Curso de Diseño de Interfaces",
+        "url": "https://platzi.com/cursos/diseno-interfaz/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1235-1b0c13e9-a779-4ec4-a58d-4262caea2aab.png",
+        "name": "Curso de Diseño de Interfaces Móviles",
+        "url": "https://platzi.com/cursos/interfaces-moviles/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-sistema-diseno-72e121d5-e96b-46cc-ba40-cf3ef7c1e1da.png",
+        "name": "Curso de Sistemas de Diseño",
+        "url": "https://platzi.com/cursos/sistemas-diseno/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-sistemas-desarrolladores-041a4def-ce1a-4e88-9c84-eb3eff740433.png",
+        "name": "Curso de Sistemas de Diseño para Desarrolladores",
+        "url": "https://platzi.com/cursos/diseno-desarrolladores/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1345-f01b1eb4-0d9c-404c-835d-6c0efca01b2e.png",
+        "name": "Curso de Ilustración Digital con Vectores",
+        "url": "https://platzi.com/cursos/ilustracion-illustrator/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ilustracion-productos-digitales-01294d9b-4113-4ea3-9ddd-5b083bb1ca17.png",
+        "name": "Curso de Ilustración para Productos Digitales",
+        "url": "https://platzi.com/cursos/ilustracion-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-copywritting-a4f4d99c-cf75-4947-92c9-d49e6fc79741.png",
+        "name": "Curso de Copywriting para Plataformas Digitales",
+        "url": "https://platzi.com/cursos/copywriting-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1350-09ddb033-354b-4c0c-84a4-56cbb71d0b08.png",
+        "name": "Curso de Desarrollo Web Online",
+        "url": "https://platzi.com/cursos/html5-css3/"
+      }
+    ]
+  },
+  {
+    "route-title": "Fundamentos de programación",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pensamiento-logico-3e33eb45-302d-408a-a624-bee4e57118d3.png",
+        "name": "Curso de Pensamiento Lógico",
+        "url": "https://platzi.com/cursos/pensamiento-logico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1248-8cdbdf8f-aaa1-4752-91c9-13083dab983e.png",
+        "name": "Curso Profesional de Arquitectura de Software",
+        "url": "https://platzi.com/cursos/pro-arquitectura/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1277-9358e87f-0435-48a4-b158-3d6bde87bca0.png",
+        "name": "Curso de Redes de Internet",
+        "url": "https://platzi.com/cursos/redes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-ing-software-2017-18f503fd-36bd-42d8-b1a1-492865659687.png",
+        "name": "Fundamentos de Ingeniería de Software",
+        "url": "https://platzi.com/cursos/ingenieria/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-algoritmos-c236ef79-8ebb-44c9-b0c0-9f233d6ce18b.png",
+        "name": "Curso Básico de Algoritmos",
+        "url": "https://platzi.com/cursos/algoritmos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1301-97adc02b-c21c-46fc-b753-c50bf1a98f67.png",
+        "name": "Curso de Expresiones Regulares",
+        "url": "https://platzi.com/cursos/expresiones-regulares/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1356-672e27be-3f5f-4db0-b902-1fbc9319c12b.png",
+        "name": "Curso de CodeStream",
+        "url": "https://platzi.com/cursos/comunicacion-codestream/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-programacion-estructurada-daded553-019d-4831-b683-e171d6b33167.png",
+        "name": "Curso de Programación Estructurada",
+        "url": "https://platzi.com/cursos/programacion-estructurada/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-prog-bash-shell-103615a6-28bc-47b5-874a-242d618fb456.png",
+        "name": "Curso de Programación en Bash Shell",
+        "url": "https://platzi.com/cursos/bash-shell/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-c-mas-mas-712af3af-9115-444b-9afa-c41e1e130e5e.png",
+        "name": "Introducción a C++",
+        "url": "https://platzi.com/cursos/c-plus-plus/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-poo-513deb20-a5bd-40a7-b97a-c36dc772d512.png",
+        "name": "Curso de Programación Orientada a Objetos: POO",
+        "url": "https://platzi.com/cursos/oop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-api-rest-212c45cd-0b2b-4989-90c5-b489c0627de4.png",
+        "name": "Curso de API REST",
+        "url": "https://platzi.com/cursos/api-rest/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pruebas-de-software-45d21aad-709a-45a3-9a51-bf1f1e450fc3.png",
+        "name": "Curso de Fundamentos de Pruebas de Software",
+        "url": "https://platzi.com/cursos/pruebas-software/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1227-863956bd-65fd-4ca3-b2de-51d8e67786ca.png",
+        "name": "Cómo Conseguir Trabajo en Programación",
+        "url": "https://platzi.com/cursos/developer/"
+      }
+    ]
+  },
+  {
+    "route-title": "Videojuegos",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1062-a0902629-58e7-4255-8fb5-cbdcc865a259.png",
+        "name": "Curso de Creación de Videojuegos",
+        "url": "https://platzi.com/cursos/creacion-videojuegos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-unity2d-492971e8-71de-448b-829b-cd17f3c0f6df.png",
+        "name": "Curso de Programación de Videojuegos 2D con Unity",
+        "url": "https://platzi.com/cursos/unity-2d/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1349-9e4778db-0e42-4136-9e52-86df812743c6.png",
+        "name": "Curso de Testing de Videojuegos",
+        "url": "https://platzi.com/cursos/testing-videojuegos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1348-a4002e1c-0d2a-47f3-8bb8-67f464e7f0a8.png",
+        "name": "Curso de Diseño de Videojuegos 2018",
+        "url": "https://platzi.com/cursos/diseno-videojuegos-2018/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-personajes-avanzado-967ff845-9a13-4337-8850-bce7026d7b8e.png",
+        "name": "Curso de Escritura de Personajes y NPC en Videojuegos",
+        "url": "https://platzi.com/cursos/personajes-npcs/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1405-3a5a1f10-5664-48a2-ae0d-de0b8bb2ce50.png",
+        "name": "Curso de Modelado 3D",
+        "url": "https://platzi.com/cursos/modelado-3d/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1402-c43c099c-5a18-4874-bf96-b4d0a60ac7af.png",
+        "name": "Curso de Texturizado 3D",
+        "url": "https://platzi.com/cursos/texturizado-3d/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1369-beff89fe-725d-4655-ae18-015ce4a66cf6.png",
+        "name": "Curso de Producción de Audio para Videojuegos",
+        "url": "https://platzi.com/cursos/audio-videojuegos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-direccion-videojuegos2-7df4e95c-9c0b-47a1-8c2f-d915acc02035.png",
+        "name": "Curso de Dirección de Videojuegos",
+        "url": "https://platzi.com/cursos/avanzado-videojuegos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-algoritmos-c236ef79-8ebb-44c9-b0c0-9f233d6ce18b.png",
+        "name": "Curso Básico de Algoritmos",
+        "url": "https://platzi.com/cursos/algoritmos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-c-videojuegos-69d46a30-5392-48d5-8c0e-d0d08c1ba7f8.png",
+        "name": "Curso de C# para Videojuegos",
+        "url": "https://platzi.com/cursos/desarrollo-unity/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1310-4e591339-54a9-4207-b87d-444c4acad566.png",
+        "name": "Curso de Introducción a la Realidad Aumentada",
+        "url": "https://platzi.com/cursos/realidad-aumentada/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-movil-unity-d623ff72-9eb6-4f81-b257-36fc912c3d8a.png",
+        "name": "Curso de Desarrollo de Videojuegos para Móviles con Unity",
+        "url": "https://platzi.com/cursos/movil-unity/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-rpg-unity-b4c63b4f-1721-4db4-befc-bbd96740ade0.png",
+        "name": "Curso Avanzado de Creación de RPGs con Unity",
+        "url": "https://platzi.com/cursos/rpg-unity/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-vrar-unity-69b8361d-c45c-46fa-a47b-2f7da13b0449.png",
+        "name": "Curso de VR con Unity",
+        "url": "https://platzi.com/cursos/vr-unity/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-mkt-juegos-aas-723ecabb-fbc6-4d2c-890d-b9c0a58c5c77.png",
+        "name": "Curso de Estrategia de Marketing y Monetización en Videojuegos",
+        "url": "https://platzi.com/cursos/estrategia-videojuegos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1065-60ff6933-38e2-4e9e-866a-4b66f4c1d878.png",
+        "name": "Curso de marketing y negocios para Videojuegos",
+        "url": "https://platzi.com/cursos/marketing-videojuegos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-animacion-arte-videojuegos-2d-dae409c1-62af-4e40-8973-c1eb541c95d2.png",
+        "name": "Curso de Animación y Arte de Videojuegos 2D",
+        "url": "https://platzi.com/cursos/animacion-videojuegos/"
+      }
+    ]
+  },
+  {
+    "route-title": "Digital Product Design",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1228-16a010ab-8b53-43b2-8819-8a552ad16e12.png",
+        "name": "Curso de Introducción al Diseño",
+        "url": "https://platzi.com/cursos/fundamentos-diseno/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1254-df7e1ca9-9406-43b0-bc46-8dfaaa960c43.png",
+        "name": "Introducción al Diseño de Prototipos",
+        "url": "https://platzi.com/cursos/prototipado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge_marcadigital.png",
+        "name": "Curso de Construcción de Marca",
+        "url": "https://platzi.com/cursos/branding-2016/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1230-b90f9a3e-a148-40d2-aabd-76c57bf3dd76.png",
+        "name": "Curso Básico de Photoshop",
+        "url": "https://platzi.com/cursos/photoshop-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-tecnicas-ilustracion-analoga-90223cdb-aba6-41fb-b979-126936cbbbda.png",
+        "name": "Curso de Técnicas y Metodologías de Ilustración a Mano",
+        "url": "https://platzi.com/cursos/ilustracion-analoga/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1345-f01b1eb4-0d9c-404c-835d-6c0efca01b2e.png",
+        "name": "Curso de Ilustración Digital con Vectores",
+        "url": "https://platzi.com/cursos/ilustracion-illustrator/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-interfaces-cf6c1320-4ab9-4a67-881d-6b9f712488ae.png",
+        "name": "Curso de Diseño de Interfaces",
+        "url": "https://platzi.com/cursos/diseno-interfaz/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-product-designer-aerolab-78e9f8a1-dbd7-49d2-87e6-88120999f280.png",
+        "name": "Cómo ser un Product Designer por Aerolab",
+        "url": "https://platzi.com/cursos/product-designer/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-tipografia-2f8624de-1f28-4647-8879-c661a63b2d02.png",
+        "name": "Curso de Tipografía",
+        "url": "https://platzi.com/cursos/diseno-tipografia/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ilustracion-productos-digitales-01294d9b-4113-4ea3-9ddd-5b083bb1ca17.png",
+        "name": "Curso de Ilustración para Productos Digitales",
+        "url": "https://platzi.com/cursos/ilustracion-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-usabilidad-7fdd05ea-f4bf-4f63-a346-58d9430b1cd7.png",
+        "name": "Curso de Usabilidad",
+        "url": "https://platzi.com/cursos/usabilidad-ux/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-centrado-usuario-faa3f50b-2728-4384-9871-a0451e632b18.png",
+        "name": "Curso de Diseño Centrado en el Usuario",
+        "url": "https://platzi.com/cursos/diseno-usuario/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-interfaces-cf6c1320-4ab9-4a67-881d-6b9f712488ae.png",
+        "name": "Curso de Diseño de Interfaces",
+        "url": "https://platzi.com/cursos/diseno-interfaz/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-posicionamiento-marca-3de5f879-f850-4e98-90da-72c8c9713453.png",
+        "name": "Curso de Posicionamiento de Marca en Medios Digitales",
+        "url": "https://platzi.com/cursos/posicionamiento-marca/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1132-1b30b719-8cd7-4572-95aa-5c9b76d6d3c1.png",
+        "name": "Curso de Marketing Móvil",
+        "url": "https://platzi.com/cursos/movil/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-copywritting-a4f4d99c-cf75-4947-92c9-d49e6fc79741.png",
+        "name": "Curso de Copywriting para Plataformas Digitales",
+        "url": "https://platzi.com/cursos/copywriting-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1051-d3402b00-785c-4c93-abbb-c55330264d66.png",
+        "name": "Curso de Relaciones Públicas y Prensa",
+        "url": "https://platzi.com/cursos/relaciones-publicas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-servicios-e0c232f0-5e20-48f9-8b12-460f613afe3e.png",
+        "name": "Curso de Diseño de Servicios",
+        "url": "https://platzi.com/cursos/servicios/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1216-c72ab6b4-905e-4308-8636-778e2dec3c5b.png",
+        "name": "Fundamentos de la Gestión de Proyectos - 2018",
+        "url": "https://platzi.com/cursos/pmi-2018/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-gamificacion-0d29cce9-8600-4ece-9368-ae6ec0859b56.png",
+        "name": "Curso de Gamificación",
+        "url": "https://platzi.com/cursos/gamification/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-sistema-diseno-72e121d5-e96b-46cc-ba40-cf3ef7c1e1da.png",
+        "name": "Curso de Sistemas de Diseño",
+        "url": "https://platzi.com/cursos/sistemas-diseno/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-design-thinking-9d9709bd-6e94-4495-8e79-fa310e6f5ae8.png",
+        "name": "Curso de Design Thinking con Minds Garage",
+        "url": "https://platzi.com/cursos/design-thinking/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1309-25772f56-4753-489d-a3b5-8a432e9d4c1d.png",
+        "name": "Curso de Business Model Canvas",
+        "url": "https://platzi.com/cursos/canvas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1300-2d2cc631-d673-47c5-a062-1adf6e7dd2c0.png",
+        "name": "Curso de Liderazgo para Equipos de Trabajo",
+        "url": "https://platzi.com/cursos/liderazgo-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1215-cbe067dd-9e4e-46ff-8df2-2ec29fe802b1.png",
+        "name": "Curso de Certificación PMP",
+        "url": "https://platzi.com/cursos/certificacion-pmp/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo Backend Con Python y Django",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-2018-python-c69323eb-6496-482e-aa2a-44d22f6617e3.png",
+        "name": "Curso de Python",
+        "url": "https://platzi.com/cursos/python/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-practico-python-creacion-crud-f89af326-bfdd-473c-a83c-1003623e1126.png",
+        "name": "Curso Práctico de Python: Creación de un CRUD",
+        "url": "https://platzi.com/cursos/python-practico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1318-9835c3f1-72e7-42c9-a87c-44605904d7ba.png",
+        "name": "Curso de Django",
+        "url": "https://platzi.com/cursos/django/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-django-avanzado-45e0f52b-5a5c-4b5d-9941-afd76cc58677.png",
+        "name": "Curso Avanzado de Django",
+        "url": "https://platzi.com/cursos/django-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1385-286851be-f480-473d-b7ed-61ab58692e3a.png",
+        "name": "Curso de Ingeniería de Datos con Python",
+        "url": "https://platzi.com/cursos/ingenieria-datos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-celery-a5b681b5-711b-490a-a2a3-a2a3f5cdbe43.png",
+        "name": "Curso de Celery",
+        "url": "https://platzi.com/cursos/celery/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-flask-6caeb42e-fa57-486c-8c8a-9c11a37a8e64.png",
+        "name": "Curso de Flask",
+        "url": "https://platzi.com/cursos/flask/"
+      }
+    ]
+  },
+  {
+    "route-title": "Diseño de Experiencia de Usuario (UX Design)",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1228-16a010ab-8b53-43b2-8819-8a552ad16e12.png",
+        "name": "Curso de Introducción al Diseño",
+        "url": "https://platzi.com/cursos/fundamentos-diseno/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1254-df7e1ca9-9406-43b0-bc46-8dfaaa960c43.png",
+        "name": "Introducción al Diseño de Prototipos",
+        "url": "https://platzi.com/cursos/prototipado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-usabilidad-7fdd05ea-f4bf-4f63-a346-58d9430b1cd7.png",
+        "name": "Curso de Usabilidad",
+        "url": "https://platzi.com/cursos/usabilidad-ux/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-arquitectura-informacion-c237b5f1-8525-42f8-b889-020b8d95bd63.png",
+        "name": "Curso de Arquitectura de la Información con Usaria",
+        "url": "https://platzi.com/cursos/arquitectura-informacion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-lean-ux-e2bd66c3-5637-4f97-91f5-91056c98447d.png",
+        "name": "Curso de Lean UX",
+        "url": "https://platzi.com/cursos/lean-ux/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1235-1b0c13e9-a779-4ec4-a58d-4262caea2aab.png",
+        "name": "Curso de Diseño de Interfaces Móviles",
+        "url": "https://platzi.com/cursos/interfaces-moviles/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-centrado-usuario-faa3f50b-2728-4384-9871-a0451e632b18.png",
+        "name": "Curso de Diseño Centrado en el Usuario",
+        "url": "https://platzi.com/cursos/diseno-usuario/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-design-thinking-9d9709bd-6e94-4495-8e79-fa310e6f5ae8.png",
+        "name": "Curso de Design Thinking con Minds Garage",
+        "url": "https://platzi.com/cursos/design-thinking/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-cx-research-cc8347ac-f539-417f-a4b2-8396f1d8dcd4.png",
+        "name": "Curso de CX Research y UX Testing",
+        "url": "https://platzi.com/cursos/ux-testing/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-designsprint-36a8f869-babd-4c69-ba40-1871dcb1fc78.png",
+        "name": "Curso de Design Sprint",
+        "url": "https://platzi.com/cursos/design-sprint/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1309-25772f56-4753-489d-a3b5-8a432e9d4c1d.png",
+        "name": "Curso de Business Model Canvas",
+        "url": "https://platzi.com/cursos/canvas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1215-cbe067dd-9e4e-46ff-8df2-2ec29fe802b1.png",
+        "name": "Curso de Certificación PMP",
+        "url": "https://platzi.com/cursos/certificacion-pmp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-liderazgo-gestion-proyectos-disenadores-5387cf40-6e37-4cb5-9e39-436d4410c2bb.png",
+        "name": "Curso de Liderazgo y Gestión de Proyectos para Diseñadores",
+        "url": "https://platzi.com/cursos/lider-diseno/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-avanzado-ux-80f5a9ea-8e19-4995-832b-6836df7a301c.png",
+        "name": "Curso Avanzado de UX",
+        "url": "https://platzi.com/cursos/ux-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-interfaces-ux-8c8ad939-7cc4-499a-aba5-9232fd4c47e5.png",
+        "name": "Curso de Diseño de Interfaces y UX",
+        "url": "https://platzi.com/cursos/diseno-interfaces-ux/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-estrategia-ux-empresas-c0c0351a-497e-44c8-9789-5f7ef12fd939.png",
+        "name": "Curso de Estrategias UX para Empresas",
+        "url": "https://platzi.com/cursos/uxempresas/"
+      }
+    ]
+  },
+  {
+    "route-title": "Creación De Startups",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1186-0cbf6899-eeb8-4b9e-9bf9-a55a004e4307.png",
+        "name": "Introducción a la Creación de Empresas y Startups",
+        "url": "https://platzi.com/cursos/creacion-de-empresas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1257-162b87bc-36a0-486c-b07e-a424e2fe95b6.png",
+        "name": "Cómo Prepararte Profesionalmente para el Futuro",
+        "url": "https://platzi.com/cursos/futuro-profesional/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1309-25772f56-4753-489d-a3b5-8a432e9d4c1d.png",
+        "name": "Curso de Business Model Canvas",
+        "url": "https://platzi.com/cursos/canvas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1275-275c632f-cdf5-45d4-a520-d95aa111d015.png",
+        "name": "Curso de Excel para el Análisis de Datos",
+        "url": "https://platzi.com/cursos/excel/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-taller-creacion-startups-f72974de-ce1e-4767-bd47-988ed8f3369a.png",
+        "name": "Taller de creación de Startups",
+        "url": "https://platzi.com/cursos/taller-startups/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-liderazgo-empresarial-fda4b173-f02d-402a-bba8-6724440e5eb1.png",
+        "name": "Curso de Liderazgo Empresarial",
+        "url": "https://platzi.com/cursos/liderazgo-empresarial/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1383-1eaf3bd9-e2c9-40df-917e-1a839ee730d0.png",
+        "name": "Curso de Estrategia Comercial",
+        "url": "https://platzi.com/cursos/estrategia-comercial/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1325-90c82d2a-8c09-4bf2-8664-a8db25bfd6a0.png",
+        "name": "Curso de Finanzas para Startups",
+        "url": "https://platzi.com/cursos/financiera-startups/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1266-0dbaeb6d-379d-4e62-add3-902e718bc95e.png",
+        "name": "Curso de Internacionalización para Startups",
+        "url": "https://platzi.com/cursos/internacionalizacion-startups/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-tecnicas-negociacion-71637158-019b-4618-8adf-779930797db0.png",
+        "name": "Curso de Técnicas de Negociación",
+        "url": "https://platzi.com/cursos/tecnicas-negociacion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-servicios-e0c232f0-5e20-48f9-8b12-460f613afe3e.png",
+        "name": "Curso de Diseño de Servicios",
+        "url": "https://platzi.com/cursos/servicios/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge_marcadigital.png",
+        "name": "Curso de Construcción de Marca",
+        "url": "https://platzi.com/cursos/branding-2016/"
+      }
+    ]
+  },
+  {
+    "route-title": "Inglés para Profesionales",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-basico-ingles-e073f711-763d-4129-badc-5e4baa78b225.png",
+        "name": "Curso de Inglés Básico para Principiantes",
+        "url": "https://platzi.com/cursos/ingles-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1371-db5ea3c7-4ac9-4b61-b786-9346ebb3fc7f.png",
+        "name": "Curso de Inglés Básico: Conversación",
+        "url": "https://platzi.com/cursos/ingles-conversacion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1370-836f01ea-6748-4c9f-a8e0-ce51c7c28d0b.png",
+        "name": "Curso de Inglés Básico: Gramática",
+        "url": "https://platzi.com/cursos/ingles-gramatica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-ingles-practico-fundamentos-507e913f-7aba-4017-9251-035a517c44fd.png",
+        "name": "Curso de Inglés Práctico: Fundamentos",
+        "url": "https://platzi.com/cursos/ingles-1/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ingles-practico-intermedio-754f9a30-afbc-494d-9ddd-be59e86ca7fd.png",
+        "name": "Curso de Inglés Práctico: Intermedio",
+        "url": "https://platzi.com/cursos/ingles-2/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ingles-practico-cotidiano-09aba6ec-502d-4219-9603-5540d466f4ed.png",
+        "name": "Curso de Inglés Fácil, Práctico y Cotidiano",
+        "url": "https://platzi.com/cursos/ingles-facil-speaking/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1188-ea5968c2-aedf-436c-bd94-9141a594770f.png",
+        "name": "Curso de Inglés Técnico para Profesionales",
+        "url": "https://platzi.com/cursos/ingles/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1279-7f312ce2-8e15-41ce-b8e0-99ec325010ca.png",
+        "name": "Curso de Escritura en Inglés",
+        "url": "https://platzi.com/cursos/escritura-ingles/"
+      }
+    ]
+  },
+  {
+    "route-title": "Diseño Gráfico",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1228-16a010ab-8b53-43b2-8819-8a552ad16e12.png",
+        "name": "Curso de Introducción al Diseño",
+        "url": "https://platzi.com/cursos/fundamentos-diseno/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-tecnicas-ilustracion-analoga-90223cdb-aba6-41fb-b979-126936cbbbda.png",
+        "name": "Curso de Técnicas y Metodologías de Ilustración a Mano",
+        "url": "https://platzi.com/cursos/ilustracion-analoga/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1130-5d671f11-65d0-42dc-8f5c-b8536389cd7d.png",
+        "name": "Curso de Illustrator",
+        "url": "https://platzi.com/cursos/illustrator/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1230-b90f9a3e-a148-40d2-aabd-76c57bf3dd76.png",
+        "name": "Curso Básico de Photoshop",
+        "url": "https://platzi.com/cursos/photoshop-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-indesign-480f5869-0b53-423f-9273-675de29db1d6.png",
+        "name": "Curso de InDesign",
+        "url": "https://platzi.com/cursos/indesign/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1389-2da1e9bd-5321-4ac1-a505-711ade128e82.png",
+        "name": "Curso de Humor Gráfico para Principiantes",
+        "url": "https://platzi.com/cursos/humor-grafico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-editorial-11c14138-aeb1-40d8-98c9-fc608b4c6710.png",
+        "name": "Curso de Fundamentos del Diseño Editorial",
+        "url": "https://platzi.com/cursos/diseno-editorial/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-diseno-visual-marcas-6b21258a-835e-48b1-938d-4b4ab4820a9e.png",
+        "name": "Curso de Diseño Visual de Marcas",
+        "url": "https://platzi.com/cursos/marca-visual/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1392-dac9303e-7145-4f89-a99a-1427dd40cc32.png",
+        "name": "Curso de Serigrafía",
+        "url": "https://platzi.com/cursos/serigrafia/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ilustracion-productos-digitales-01294d9b-4113-4ea3-9ddd-5b083bb1ca17.png",
+        "name": "Curso de Ilustración para Productos Digitales",
+        "url": "https://platzi.com/cursos/ilustracion-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ilustracion-photoshop-f76e898d-fb7a-4e93-ac12-772272358087.png",
+        "name": "Curso de Ilustración con Photoshop",
+        "url": "https://platzi.com/cursos/ilustracion-photoshop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-lettering-10bcab4a-5016-4c31-bfd1-ad4a691d1f8b.png",
+        "name": "Curso de Lettering",
+        "url": "https://platzi.com/cursos/lettering/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-illustrator-avanzado-0ef217db-02b0-4c25-b176-f4cbfe67676f.png",
+        "name": "Curso de Illustrator Avanzado",
+        "url": "https://platzi.com/cursos/illustrator-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1404-52839721-bd55-4ce1-b616-75d794ad8167.png",
+        "name": "Curso de Motion Graphics",
+        "url": "https://platzi.com/cursos/motion-graphics/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1388-2855d45f-c79f-4c64-a864-bac1a8074cf4.png",
+        "name": "Curso de Animación de Personajes",
+        "url": "https://platzi.com/cursos/animacion-personajes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-tipografia-2f8624de-1f28-4647-8879-c661a63b2d02.png",
+        "name": "Curso de Tipografía",
+        "url": "https://platzi.com/cursos/diseno-tipografia/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1405-3a5a1f10-5664-48a2-ae0d-de0b8bb2ce50.png",
+        "name": "Curso de Modelado 3D",
+        "url": "https://platzi.com/cursos/modelado-3d/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-xd-349e5d51-5cda-4449-abe4-647abae5af0c.png",
+        "name": "Curso de Adobe XD",
+        "url": "https://platzi.com/cursos/adobe-xd/"
+      }
+    ]
+  },
+  {
+    "route-title": "Comercio electrónico o E-commerce",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-intro-negocios-online-dfc9bad9-43be-40b3-a418-6ab05214837c.png",
+        "name": "Curso de Introducción a los Negocios Online",
+        "url": "https://platzi.com/cursos/negocios-online/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1309-25772f56-4753-489d-a3b5-8a432e9d4c1d.png",
+        "name": "Curso de Business Model Canvas",
+        "url": "https://platzi.com/cursos/canvas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1321-67f2b04c-1735-4813-8d39-4c943932b7de.png",
+        "name": "Curso de Transformación Digital para Empresas",
+        "url": "https://platzi.com/cursos/transforma-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1282-0e968fd9-e8d4-406c-999b-940608e2b01a.png",
+        "name": "Curso de Atención al Cliente y Soporte a Usuarios",
+        "url": "https://platzi.com/cursos/atencion-cliente/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-tecnicas-negociacion-71637158-019b-4618-8adf-779930797db0.png",
+        "name": "Curso de Técnicas de Negociación",
+        "url": "https://platzi.com/cursos/tecnicas-negociacion/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1383-1eaf3bd9-e2c9-40df-917e-1a839ee730d0.png",
+        "name": "Curso de Estrategia Comercial",
+        "url": "https://platzi.com/cursos/estrategia-comercial/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1175-8c292ede-4811-4a60-80a2-f88066d03ba9.png",
+        "name": "Curso de Ventas y Fidelización de Clientes",
+        "url": "https://platzi.com/cursos/ventas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-business-intelligence-edb69123-802a-4501-b188-4bf31586ce67.png",
+        "name": "Curso de Introducción a Business Intelligence con Power BI",
+        "url": "https://platzi.com/cursos/business-intelligence/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1325-90c82d2a-8c09-4bf2-8664-a8db25bfd6a0.png",
+        "name": "Curso de Finanzas para Startups",
+        "url": "https://platzi.com/cursos/financiera-startups/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-estrategia-b2b-c7a29d2d-d6dc-495f-8ee8-e4a0fd35e9b1.png",
+        "name": "Curso de Estrategia Comercial B2B",
+        "url": "https://platzi.com/cursos/comercial-b2b/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/og-posicionamiento-buscadores-df975616-d821-4e3a-92e0-c68952d322e8.png",
+        "name": "Curso de Introducción a SEO: Posicionamiento en Buscadores",
+        "url": "https://platzi.com/cursos/seo/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge_marcadigital.png",
+        "name": "Curso de Construcción de Marca",
+        "url": "https://platzi.com/cursos/branding-2016/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1302-0b8cee1d-928c-4f0d-9c7e-e9c3387b5b66.png",
+        "name": "Curso de Community Manager",
+        "url": "https://platzi.com/cursos/community-manager/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-wordpress-0baaf46b-cb21-4c6b-bb95-3e944d55c3e9.png",
+        "name": "Curso de Creación y Optimización de Sitios Web con WordPress",
+        "url": "https://platzi.com/cursos/seo-wordpress/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-creacion-temas-pluggins-wordpress-7e48608c-50be-4d41-b03d-2c1206bd3dbd.png",
+        "name": "Curso de Creación de Temas y Plugins en WordPress",
+        "url": "https://platzi.com/cursos/wordpress/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge_seguridad-informatica-para-empresas-1a8034b5-6887-4c34-8ba9-c528a28f844c.png",
+        "name": "Curso Básico de Seguridad Informática para Empresas",
+        "url": "https://platzi.com/cursos/seguridad-empresas/"
+      }
+    ]
+  },
+  {
+    "route-title": "Big Data y Data Science",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-practico-python-creacion-crud-f89af326-bfdd-473c-a83c-1003623e1126.png",
+        "name": "Curso Práctico de Python: Creación de un CRUD",
+        "url": "https://platzi.com/cursos/python-practico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-fundamentos-r-a02d2dc6-bffd-4ebc-ae52-7c261e864813.png",
+        "name": "Fundamentos de R",
+        "url": "https://platzi.com/cursos/fundamentos-r/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1272-15ff4836-0221-4001-b945-5cf34bd65bab.png",
+        "name": "Curso de SQL y MySQL",
+        "url": "https://platzi.com/cursos/sql-mysql/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-batabase-aws-46362796-bae4-464f-8643-c69a9d8b17da.png",
+        "name": "Curso de Bases de Datos en AWS",
+        "url": "https://platzi.com/cursos/db-aws/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1385-286851be-f480-473d-b7ed-61ab58692e3a.png",
+        "name": "Curso de Ingeniería de Datos con Python",
+        "url": "https://platzi.com/cursos/ingenieria-datos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1178-8afe3281-ad65-47fe-a097-8c7b85c96645.png",
+        "name": "Curso de Machine Learning Aplicado con Python",
+        "url": "https://platzi.com/cursos/scikit/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-big-data-8cc27fac-bf4d-45d8-b35d-e99a2bb3ab6a.png",
+        "name": "Curso de Big Data en AWS",
+        "url": "https://platzi.com/cursos/big-data/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-datascience-42088692-02b3-4d84-b2dc-ce2dfca2183f.png",
+        "name": "Curso Profesional de Ciencia de Datos",
+        "url": "https://platzi.com/cursos/data/"
+      }
+    ]
+  },
+  {
+    "route-title": "Ciencias",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1393-88e062fc-31f2-4e1e-9cd9-d9bd96e6a319.png",
+        "name": "Curso de Fundamentos de Matemáticas",
+        "url": "https://platzi.com/clases/fundamentos-matematicas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-algebra-4c5f36d1-613a-44ff-9163-5e31e7adfb65.png",
+        "name": "Curso de Álgebra",
+        "url": "https://platzi.com/clases/algebra/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-matematicas-para-fisica-e361ed0f-0e4c-4dca-8041-1d40cde93513.png",
+        "name": "Fundamentos de Matemáticas para Física",
+        "url": "https://platzi.com/clases/fisica-matematica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1275-275c632f-cdf5-45d4-a520-d95aa111d015.png",
+        "name": "Curso de Excel para el Análisis de Datos",
+        "url": "https://platzi.com/clases/excel/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-astrobiologia-2b51a02c-be9f-4cb5-b78b-a1d05e63b58c.png",
+        "name": "Curso de Astrobiología",
+        "url": "https://platzi.com/clases/astrobiologia/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-estatica1-75371d11-7bbf-4bdd-ad6a-c6d6c437fdab.png",
+        "name": "Curso de Física Mecánica Estática",
+        "url": "https://platzi.com/clases/estatica/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo de Apps multiplataforma",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-dart-5f3f6a7d-c450-44a8-a111-7a1914729e14.png",
+        "name": "Curso de Dart",
+        "url": "https://platzi.com/cursos/dart/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-javascript-61c15bdf-0a83-4aed-8537-b4753e4071e1.png",
+        "name": "Fundamentos de JavaScript",
+        "url": "https://platzi.com/cursos/fundamentos-javascript/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1375-954e9dd1-7577-476e-a2e1-85710d5d2c62.png",
+        "name": "Fundamentos de C# con NET Core",
+        "url": "https://platzi.com/cursos/fundamentos-csharp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-react-2018-afc93257-48af-4e54-acaa-4d0433380f64.png",
+        "name": "Curso de React.js",
+        "url": "https://platzi.com/cursos/react/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1359-c2172b91-9378-4db4-ba81-91aa8413770c.png",
+        "name": "Curso de C# con .Net Core",
+        "url": "https://platzi.com/cursos/c-sharp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1340-7609a8dc-f858-4863-abeb-02a7dbbf59c1.png",
+        "name": "Curso de Angular 6",
+        "url": "https://platzi.com/cursos/angular-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1386-b8a48176-0809-49b9-bde1-8664fe6c3a93.png",
+        "name": "Curso de Flutter",
+        "url": "https://platzi.com/cursos/flutter/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1292-15445c40-d850-46ba-82f1-886ed3455c53.png",
+        "name": "Curso de React Native",
+        "url": "https://platzi.com/cursos/react-native/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1314-7c6a9d89-7ff0-4fe4-b560-fbc3b7361b88.png",
+        "name": "Curso de Xamarin.Forms",
+        "url": "https://platzi.com/cursos/xamarin-forms/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1124-a91c148f-2b36-4a21-9354-c3b2170339e9.png",
+        "name": "Curso de Electron: Apps de escritorio en Windows y Mac",
+        "url": "https://platzi.com/cursos/electron/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1313-96cfddb0-624d-4a3b-8f1c-7e75660fb7a1.png",
+        "name": "Curso de Progressive Web Apps con React.js",
+        "url": "https://platzi.com/cursos/pwa-react-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1268-63ffe8e5-ef4a-4906-974a-204f15d0e1be.png",
+        "name": "Curso de PWA con Angular",
+        "url": "https://platzi.com/cursos/pwa-angular/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-avanzado-flutter-fb7e966a-b3e0-472c-a390-bbc0489d7812.png",
+        "name": "Curso Avanzado de Flutter",
+        "url": "https://platzi.com/cursos/flutter-avanzado/"
+      }
+    ]
+  },
+  {
+    "route-title": "Google Cloud Platform",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-fundamentosgcp-7dfa52e3-bea1-4d19-8c24-b067b6103357.png",
+        "name": "Fundamentos de Google Cloud Platform",
+        "url": "https://platzi.com/cursos/fundamentos-google/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-nlp-bb52af44-e76c-4ed4-9296-746b6916f337.png",
+        "name": "Curso de Procesamiento de Lenguaje Natural",
+        "url": "https://platzi.com/cursos/procesamiento/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-dialogflow-7e694d51-e7a5-41dd-ab9a-63ba61d52349.png",
+        "name": "Curso de DialogFlow: Programación de Chatbots por voz",
+        "url": "https://platzi.com/cursos/dialogflow/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-googleappengine-c6e8ec57-b3a4-41e1-bd38-38cc53cefcc6.png",
+        "name": "Curso de Google App Engine",
+        "url": "https://platzi.com/cursos/app-engine/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1365-1e31f962-f6b7-4660-81bc-8dea72fda835.png",
+        "name": "Curso de Google Kubernetes Engine",
+        "url": "https://platzi.com/cursos/kubernetes-xertica/"
+      }
+    ]
+  },
+  {
+    "route-title": "Transformación Digital",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1321-67f2b04c-1735-4813-8d39-4c943932b7de.png",
+        "name": "Curso de Transformación Digital para Empresas",
+        "url": "https://platzi.com/cursos/transforma-digital/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-design-thinking-9d9709bd-6e94-4495-8e79-fa310e6f5ae8.png",
+        "name": "Curso de Design Thinking con Minds Garage",
+        "url": "https://platzi.com/cursos/design-thinking/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1309-25772f56-4753-489d-a3b5-8a432e9d4c1d.png",
+        "name": "Curso de Business Model Canvas",
+        "url": "https://platzi.com/cursos/canvas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1300-2d2cc631-d673-47c5-a062-1adf6e7dd2c0.png",
+        "name": "Curso de Liderazgo para Equipos de Trabajo",
+        "url": "https://platzi.com/cursos/liderazgo-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1216-c72ab6b4-905e-4308-8636-778e2dec3c5b.png",
+        "name": "Fundamentos de la Gestión de Proyectos - 2018",
+        "url": "https://platzi.com/cursos/pmi-2018/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-capacitacion-equipo-02381d7c-b0e7-4451-838d-702579a9628b.png",
+        "name": "Curso de Capacitación para Equipos",
+        "url": "https://platzi.com/cursos/capacitacion-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1215-cbe067dd-9e4e-46ff-8df2-2ec29fe802b1.png",
+        "name": "Curso de Certificación PMP",
+        "url": "https://platzi.com/cursos/certificacion-pmp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1401-1aa3b4ef-6dc1-4995-894a-f8ac475de6eb.png",
+        "name": "Curso de Google Suite",
+        "url": "https://platzi.com/cursos/google-suite/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1400-140d7631-f476-46cf-afa4-8368c9ecf340.png",
+        "name": "Curso de Administración de Actividades con Trello",
+        "url": "https://platzi.com/cursos/trello/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-comunicacion-slack-a9bd2f28-82f2-4fef-8d67-6cec70724d94.png",
+        "name": "Curso de Comunicación Online con Slack",
+        "url": "https://platzi.com/cursos/slack/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo Profesional",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-estrategias-aprender-enlinea-df2bec85-990c-4afb-964c-8fb2dfbd1c2e.png",
+        "name": "Curso de Estrategias para Aprender en Línea Efectivamente",
+        "url": "https://platzi.com/cursos/aprender/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-taller-conseguir-trabajo-f6e576d4-6075-4873-943c-51e741c4daa4.png",
+        "name": "Taller: Consigue el trabajo de tus sueños",
+        "url": "https://platzi.com/cursos/taller-trabajo/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1257-162b87bc-36a0-486c-b07e-a424e2fe95b6.png",
+        "name": "Cómo Prepararte Profesionalmente para el Futuro",
+        "url": "https://platzi.com/cursos/futuro-profesional/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-finanzas-personales-af9971ca-d6ce-403c-a940-8ecfd0de71f3.png",
+        "name": "Curso de Finanzas Personales",
+        "url": "https://platzi.com/cursos/finanzas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1396-e6d37f15-de5c-48b1-af5d-7bc7b75650ab.png",
+        "name": "Curso de Ortografía Básica",
+        "url": "https://platzi.com/cursos/ortografia-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-portafolio-cv-309acfd7-4c85-4efc-81b7-6b3b3488cf74.png",
+        "name": "Curso de Creación de Portafolio y CV",
+        "url": "https://platzi.com/cursos/portafolios/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-basico-ingles-e073f711-763d-4129-badc-5e4baa78b225.png",
+        "name": "Curso de Inglés Básico para Principiantes",
+        "url": "https://platzi.com/cursos/ingles-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1370-836f01ea-6748-4c9f-a8e0-ce51c7c28d0b.png",
+        "name": "Curso de Inglés Básico: Gramática",
+        "url": "https://platzi.com/cursos/ingles-gramatica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-portugues-686a49dd-1146-4b62-ab21-8987bd0e3d6b.png",
+        "name": "Curso Básico de Portugués para Hispanohablantes",
+        "url": "https://platzi.com/cursos/portugues/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-portugues-practico-d18393ef-bfc6-400e-9ccb-56f944b9efca.png",
+        "name": "Curso Práctico de Portugués para Hispanohablantes",
+        "url": "https://platzi.com/cursos/portugues-practico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-word-6afaf389-824d-4b60-a0b8-91f1663a5c90.png",
+        "name": "Curso de Gestión de Documentos Digitales con Microsoft Word",
+        "url": "https://platzi.com/cursos/microsoft-word/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-powerpoint-064ac3a0-17b9-420c-9fc3-740689e6374d.png",
+        "name": "Gestión de Documentos Digitales con PowerPoint",
+        "url": "https://platzi.com/cursos/microsoft-powerpoint/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-inteligencia-emocional-45fd84e4-f47f-4d87-bbb5-73984ba9704e.png",
+        "name": "Curso de Inteligencia Emocional",
+        "url": "https://platzi.com/cursos/inteligencia-emocional/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-ingles-practico-fundamentos-507e913f-7aba-4017-9251-035a517c44fd.png",
+        "name": "Curso de Inglés Práctico: Fundamentos",
+        "url": "https://platzi.com/cursos/ingles-1/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ingles-practico-intermedio-754f9a30-afbc-494d-9ddd-be59e86ca7fd.png",
+        "name": "Curso de Inglés Práctico: Intermedio",
+        "url": "https://platzi.com/cursos/ingles-2/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ingles-practico-cotidiano-09aba6ec-502d-4219-9603-5540d466f4ed.png",
+        "name": "Curso de Inglés Fácil, Práctico y Cotidiano",
+        "url": "https://platzi.com/cursos/ingles-facil-speaking/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-trabajar-freelance-d5582227-e20b-4467-aafe-028934ea06a9.png",
+        "name": "Curso para trabajar como Freelance",
+        "url": "https://platzi.com/cursos/trabajar-freelance/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1188-ea5968c2-aedf-436c-bd94-9141a594770f.png",
+        "name": "Curso de Inglés Técnico para Profesionales",
+        "url": "https://platzi.com/cursos/ingles/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1279-7f312ce2-8e15-41ce-b8e0-99ec325010ca.png",
+        "name": "Curso de Escritura en Inglés",
+        "url": "https://platzi.com/cursos/escritura-ingles/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-storytelling-f25c9ca5-298e-485d-8470-2c7a532e211c.png",
+        "name": "Curso de Storytelling",
+        "url": "https://platzi.com/cursos/storytelling/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-word-6afaf389-824d-4b60-a0b8-91f1663a5c90.png",
+        "name": "Curso de Gestión de Documentos Digitales con Microsoft Word",
+        "url": "https://platzi.com/cursos/microsoft-word/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-powerpoint-064ac3a0-17b9-420c-9fc3-740689e6374d.png",
+        "name": "Gestión de Documentos Digitales con PowerPoint",
+        "url": "https://platzi.com/cursos/microsoft-powerpoint/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1285-4cf709f2-7905-4e4b-95fb-409d8d83b68d.png",
+        "name": "Curso de Oratoria y Hablar en Público",
+        "url": "https://platzi.com/cursos/hablar-en-publico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-motivacion-687a8461-a5f5-4654-b52d-cdd2accda537.png",
+        "name": "Curso de Motivación para Equipos de Trabajo",
+        "url": "https://platzi.com/cursos/motivacion-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-comunicacion-efectiva-a1d71b51-aca4-4e53-8d6e-a3829c28dfa3.png",
+        "name": "Curso de Comunicación Efectiva para Equipos",
+        "url": "https://platzi.com/cursos/comunicacion-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1286-0cf58150-2060-4e51-83bf-131427078395.png",
+        "name": "Curso para Líderes en formación",
+        "url": "https://platzi.com/cursos/liderazgo-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1300-2d2cc631-d673-47c5-a062-1adf6e7dd2c0.png",
+        "name": "Curso de Liderazgo para Equipos de Trabajo",
+        "url": "https://platzi.com/cursos/liderazgo-equipos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-travel-hacking-150f66e9-c621-4427-a4fa-f61361e1b1fb.png",
+        "name": "Curso de Travel Hacking",
+        "url": "https://platzi.com/cursos/travel-hacking/"
+      }
+    ]
+  },
+  {
+    "route-title": "Administración de Servidores y DevOps",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-digital-ocean-b45a374d-abb7-48e7-bdf1-6835e5889a70.png",
+        "name": "Curso de Digital Ocean",
+        "url": "https://platzi.com/cursos/digital-ocean/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1323-b1cdbbea-6d17-4d0d-a3d1-ec8b5700dae6.png",
+        "name": "Curso de Fundamentos de AWS Cloud",
+        "url": "https://platzi.com/cursos/aws-cloud/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-fundamentos-docker-ef085173-492c-4076-b457-78af9155f8c0.png",
+        "name": "Fundamentos de Docker",
+        "url": "https://platzi.com/cursos/docker/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-jenkins-0073a655-4709-4628-bcad-b4ac569176d4.png",
+        "name": "Curso Básico de Jenkins",
+        "url": "https://platzi.com/cursos/jenkins-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-prog-bash-shell-103615a6-28bc-47b5-874a-242d618fb456.png",
+        "name": "Curso de Programación en Bash Shell",
+        "url": "https://platzi.com/cursos/bash-shell/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-gitlab-81a80b64-5304-4276-8f94-19a8a1e8912d.png",
+        "name": "Curso de DevOps con GitLab",
+        "url": "https://platzi.com/cursos/gitlab/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1139-2394fba7-2a9e-43f4-a140-1b8e35764d8a.png",
+        "name": "Curso de Deploy con Now.sh",
+        "url": "https://platzi.com/cursos/deploy-now/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-devops-d3e8b2ef-b2ef-4a16-8a4a-ac0e6953b054.png",
+        "name": "Curso Profesional de DevOps",
+        "url": "https://platzi.com/cursos/devops/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1219-963070ef-0244-4846-aaf5-59b57233aecd.png",
+        "name": "Fundamentos de IBM Cloud",
+        "url": "https://platzi.com/cursos/ibm-cloud/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-servidores-linux-7d642e59-3c89-4921-b998-96b6e0d4e4a4.png",
+        "name": "Curso de Administración de Servidores Linux",
+        "url": "https://platzi.com/cursos/linux/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-azure-storage-5b70d675-e15a-4e7e-88e1-7d6a34c60063.png",
+        "name": "Curso de Almacenamiento en Azure",
+        "url": "https://platzi.com/cursos/almacenamiento-azure/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-sql-azure-946e0c2b-153b-4868-9ec9-22bea54335ea.png",
+        "name": "Curso de SQL en Azure",
+        "url": "https://platzi.com/cursos/sql-azure/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-web-logic-app-43f57ba9-169c-4f6d-ad44-b3e205e9f318.png",
+        "name": "Curso de Web Apps y Logic Apps en Azure",
+        "url": "https://platzi.com/cursos/web-apps/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-azure-iaas-12d4aec5-4a35-403c-a29d-2766d7969197.png",
+        "name": "Curso de Azure IaaS",
+        "url": "https://platzi.com/cursos/azure-iaas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-swarm-a321c69e-4c48-4197-a536-e31150287f3c.png",
+        "name": "Curso de Swarm",
+        "url": "https://platzi.com/cursos/docker-swarm/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-kubernetes-1ed7c0b2-01c3-4d4c-ba8a-6de3c35af64c.png",
+        "name": "Curso de Kubernetes",
+        "url": "https://platzi.com/cursos/k8s/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-terraform-bdde51f8-c870-47f7-9ba7-33ef21b1e7c4.png",
+        "name": "Curso de Infraestructura Como Código con Terraform",
+        "url": "https://platzi.com/cursos/devops-terraform/"
+      }
+    ]
+  },
+  {
+    "route-title": "Firebase",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-firebase-web-441f64cc-bedf-4aea-937d-e2f413f2d96d.png",
+        "name": "Curso de Firebase para Web",
+        "url": "https://platzi.com/cursos/firebase-web/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-firebase-realtime-android-ce3e2a34-1cf8-4dbc-ad5e-261d778af40d.png",
+        "name": "Curso de Firestore para Android",
+        "url": "https://platzi.com/cursos/firestore/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-firebase-cloud-functions-e84448d5-b796-4d48-900e-174343d57ba1.png",
+        "name": "Curso de Firebase Cloud Functions",
+        "url": "https://platzi.com/cursos/firebase-cloud/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo Con WordPress",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-javascript-61c15bdf-0a83-4aed-8537-b4753e4071e1.png",
+        "name": "Fundamentos de JavaScript",
+        "url": "https://platzi.com/cursos/fundamentos-javascript/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1338-af905fe2-6399-4342-a5a7-57a580cae86b.png",
+        "name": "Curso de Introducción a PHP",
+        "url": "https://platzi.com/cursos/php/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1228-16a010ab-8b53-43b2-8819-8a552ad16e12.png",
+        "name": "Curso de Introducción al Diseño",
+        "url": "https://platzi.com/cursos/fundamentos-diseno/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1272-15ff4836-0221-4001-b945-5cf34bd65bab.png",
+        "name": "Curso de SQL y MySQL",
+        "url": "https://platzi.com/cursos/sql-mysql/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-html-css-b0a71550-d5e7-4e27-aca2-f09f1321a517.png",
+        "name": "Curso de HTML y CSS",
+        "url": "https://platzi.com/cursos/html-css/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-creacion-temas-pluggins-wordpress-7e48608c-50be-4d41-b03d-2c1206bd3dbd.png",
+        "name": "Curso de Creación de Temas y Plugins en WordPress",
+        "url": "https://platzi.com/cursos/wordpress/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-trabajar-freelance-d5582227-e20b-4467-aafe-028934ea06a9.png",
+        "name": "Curso para trabajar como Freelance",
+        "url": "https://platzi.com/cursos/trabajar-freelance/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-wordpress-0baaf46b-cb21-4c6b-bb95-3e944d55c3e9.png",
+        "name": "Curso de Creación y Optimización de Sitios Web con WordPress",
+        "url": "https://platzi.com/cursos/seo-wordpress/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-php-avanzado-798212d8-15fb-44bf-850d-68645aa7f2e7.png",
+        "name": "Curso Avanzado de PHP",
+        "url": "https://platzi.com/cursos/php-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-sistemas-desarrolladores-041a4def-ce1a-4e88-9c84-eb3eff740433.png",
+        "name": "Curso de Sistemas de Diseño para Desarrolladores",
+        "url": "https://platzi.com/cursos/diseno-desarrolladores/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1103-0dce9ce6-dd88-466b-af07-76a87643c8b7.png",
+        "name": "Curso de Animaciones para la Web",
+        "url": "https://platzi.com/cursos/animaciones-web/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo Backend con PHP",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/clases/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/clases/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/clases/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pruebas-de-software-45d21aad-709a-45a3-9a51-bf1f1e450fc3.png",
+        "name": "Curso de Fundamentos de Pruebas de Software",
+        "url": "https://platzi.com/clases/pruebas-software/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1338-af905fe2-6399-4342-a5a7-57a580cae86b.png",
+        "name": "Curso de Introducción a PHP",
+        "url": "https://platzi.com/clases/php/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-laravel-ed7723f2-1ec9-4e5b-b4b5-ba70548083a5.png",
+        "name": "Curso de PHP con Laravel",
+        "url": "https://platzi.com/clases/curso-php-laravel/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-php-avanzado-798212d8-15fb-44bf-850d-68645aa7f2e7.png",
+        "name": "Curso Avanzado de PHP",
+        "url": "https://platzi.com/clases/php-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1411-1816ae61-c618-49d5-8b10-760e7bc9ad56.png",
+        "name": "Curso de End to End Testing con Cypress",
+        "url": "https://platzi.com/clases/testing-cypress/"
+      }
+    ]
+  },
+  {
+    "route-title": "Matemáticas para Programación",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1393-88e062fc-31f2-4e1e-9cd9-d9bd96e6a319.png",
+        "name": "Curso de Fundamentos de Matemáticas",
+        "url": "https://platzi.com/cursos/fundamentos-matematicas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-algebra-4c5f36d1-613a-44ff-9163-5e31e7adfb65.png",
+        "name": "Curso de Álgebra",
+        "url": "https://platzi.com/cursos/algebra/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1269-7bc7834f-8a93-42e2-884c-44efccab201e.png",
+        "name": "Curso de Probabilidad y Estadística",
+        "url": "https://platzi.com/cursos/probabilidad-estadistica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1267-44900eb6-091b-4aa9-8357-0382d0081c11.png",
+        "name": "Curso de Cálculo para Análisis de Datos",
+        "url": "https://platzi.com/cursos/calculo-datos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1275-275c632f-cdf5-45d4-a520-d95aa111d015.png",
+        "name": "Curso de Excel para el Análisis de Datos",
+        "url": "https://platzi.com/cursos/excel/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1319-b6a4ac1f-93a5-4e1d-b6b6-a809daf6afcf.png",
+        "name": "Curso de Matemáticas Discretas",
+        "url": "https://platzi.com/cursos/discretas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1320-eb42a044-0558-4972-b217-aaac6b03797b.png",
+        "name": "Curso de Ecuaciones Diferenciales",
+        "url": "https://platzi.com/cursos/ecuaciones/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1280-c4101880-2028-46fd-8424-2466a81319f0.png",
+        "name": "Curso de Cálculo Multivariable",
+        "url": "https://platzi.com/cursos/calculo-multivariable/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1227-863956bd-65fd-4ca3-b2de-51d8e67786ca.png",
+        "name": "Cómo Conseguir Trabajo en Programación",
+        "url": "https://platzi.com/cursos/developer/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo de Apps con React Native",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pensamiento-logico-3e33eb45-302d-408a-a624-bee4e57118d3.png",
+        "name": "Curso de Pensamiento Lógico",
+        "url": "https://platzi.com/cursos/pensamiento-logico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-programacion-estructurada-daded553-019d-4831-b683-e171d6b33167.png",
+        "name": "Curso de Programación Estructurada",
+        "url": "https://platzi.com/cursos/programacion-estructurada/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-poo-513deb20-a5bd-40a7-b97a-c36dc772d512.png",
+        "name": "Curso de Programación Orientada a Objetos: POO",
+        "url": "https://platzi.com/cursos/oop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-javascript-61c15bdf-0a83-4aed-8537-b4753e4071e1.png",
+        "name": "Fundamentos de JavaScript",
+        "url": "https://platzi.com/cursos/fundamentos-javascript/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-react-2018-afc93257-48af-4e54-acaa-4d0433380f64.png",
+        "name": "Curso de React.js",
+        "url": "https://platzi.com/cursos/react/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1342-b3aca9a0-32a2-4d6b-ad81-9edf7f982fb5.png",
+        "name": "Curso de React Router",
+        "url": "https://platzi.com/cursos/react-router/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1308-4164b939-80e3-40d8-a1e6-1a785a451665.png",
+        "name": "Curso de React Navigation",
+        "url": "https://platzi.com/cursos/react-navigation/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1292-15445c40-d850-46ba-82f1-886ed3455c53.png",
+        "name": "Curso de React Native",
+        "url": "https://platzi.com/cursos/react-native/"
+      }
+    ]
+  },
+  {
+    "route-title": "Inteligencia Artificial",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pensamiento-logico-3e33eb45-302d-408a-a624-bee4e57118d3.png",
+        "name": "Curso de Pensamiento Lógico",
+        "url": "https://platzi.com/cursos/pensamiento-logico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-programacion-estructurada-daded553-019d-4831-b683-e171d6b33167.png",
+        "name": "Curso de Programación Estructurada",
+        "url": "https://platzi.com/cursos/programacion-estructurada/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-poo-513deb20-a5bd-40a7-b97a-c36dc772d512.png",
+        "name": "Curso de Programación Orientada a Objetos: POO",
+        "url": "https://platzi.com/cursos/oop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1269-7bc7834f-8a93-42e2-884c-44efccab201e.png",
+        "name": "Curso de Probabilidad y Estadística",
+        "url": "https://platzi.com/cursos/probabilidad-estadistica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-algoritmos-c236ef79-8ebb-44c9-b0c0-9f233d6ce18b.png",
+        "name": "Curso Básico de Algoritmos",
+        "url": "https://platzi.com/cursos/algoritmos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1393-88e062fc-31f2-4e1e-9cd9-d9bd96e6a319.png",
+        "name": "Curso de Fundamentos de Matemáticas",
+        "url": "https://platzi.com/cursos/fundamentos-matematicas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-practico-python-creacion-crud-f89af326-bfdd-473c-a83c-1003623e1126.png",
+        "name": "Curso Práctico de Python: Creación de un CRUD",
+        "url": "https://platzi.com/cursos/python-practico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1267-44900eb6-091b-4aa9-8357-0382d0081c11.png",
+        "name": "Curso de Cálculo para Análisis de Datos",
+        "url": "https://platzi.com/cursos/calculo-datos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1319-b6a4ac1f-93a5-4e1d-b6b6-a809daf6afcf.png",
+        "name": "Curso de Matemáticas Discretas",
+        "url": "https://platzi.com/cursos/discretas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1280-c4101880-2028-46fd-8424-2466a81319f0.png",
+        "name": "Curso de Cálculo Multivariable",
+        "url": "https://platzi.com/cursos/calculo-multivariable/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-introduccion-machine-learning-ee605ed7-2df4-4f10-b793-0576edd3d39b.png",
+        "name": "Curso de Introducción a Machine Learning",
+        "url": "https://platzi.com/cursos/machine-learning/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-fundamentos-machine-learning-5e2fbe0b-271c-4441-846a-f702108dc4f0.png",
+        "name": "Curso de Fundamentos Prácticos de Machine Learning",
+        "url": "https://platzi.com/cursos/fundamentos-ml/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1352-79c4b882-f0bf-4d84-9a21-f5543b85f282.png",
+        "name": "Curso de Introducción al Deep Learning",
+        "url": "https://platzi.com/cursos/ia/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-algebra-python-5ea49736-48b6-48b4-906f-cedc4ee10b61.png",
+        "name": "Curso de Fundamentos de Álgebra Lineal con Python",
+        "url": "https://platzi.com/cursos/algebra-lineal/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/bagde-algebra-lineal-machine-learning-dc3c7317-aaca-4320-b327-2986e965715f.png",
+        "name": "Curso de Álgebra Lineal Aplicada para Machine Learning",
+        "url": "https://platzi.com/cursos/algebra-ml/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1178-8afe3281-ad65-47fe-a097-8c7b85c96645.png",
+        "name": "Curso de Machine Learning Aplicado con Python",
+        "url": "https://platzi.com/cursos/scikit/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-analisis-predictivo-ml-e796146b-54b5-4a0c-8c4a-8308755d0e74.png",
+        "name": "Curso de Machine Learning para análisis predictivo",
+        "url": "https://platzi.com/cursos/analisis-predictivo/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-dialogflow-7e694d51-e7a5-41dd-ab9a-63ba61d52349.png",
+        "name": "Curso de DialogFlow: Programación de Chatbots por voz",
+        "url": "https://platzi.com/cursos/dialogflow/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1355-571dc94e-6f15-4e83-b558-71edeb7b9153.png",
+        "name": "Curso de Bots con Facebook Messenger",
+        "url": "https://platzi.com/cursos/bots-fb/"
+      }
+    ]
+  },
+  {
+    "route-title": "Bases de Datos",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1272-15ff4836-0221-4001-b945-5cf34bd65bab.png",
+        "name": "Curso de SQL y MySQL",
+        "url": "https://platzi.com/cursos/sql-mysql/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-postgresql-2f962bec-2552-403a-803d-85db006f2731.png",
+        "name": "Curso de PostgreSQL",
+        "url": "https://platzi.com/cursos/postgresql/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-mongo-db-5f684168-798f-42ad-a17c-2e8f0c40a477.png",
+        "name": "Curso Básico de MongoDB",
+        "url": "https://platzi.com/cursos/mongodb/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-batabase-aws-46362796-bae4-464f-8643-c69a9d8b17da.png",
+        "name": "Curso de Bases de Datos en AWS",
+        "url": "https://platzi.com/cursos/db-aws/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo de Aplicaciones Android",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-basico-kotlin-eb602c4e-0ddb-469c-8a52-a9516484a1f5.png",
+        "name": "Curso Básico de Kotlin",
+        "url": "https://platzi.com/cursos/kotlin/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-dart-5f3f6a7d-c450-44a8-a111-7a1914729e14.png",
+        "name": "Curso de Dart",
+        "url": "https://platzi.com/cursos/dart/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1264-244d15fb-50f6-455a-b3e2-f403d9f95bdd.png",
+        "name": "Curso de Bases Técnicas de Android",
+        "url": "https://platzi.com/cursos/tecnico-android/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1236-21df15a8-5fb9-4c82-81df-187ce86367be.png",
+        "name": "Curso Avanzado de Java SE",
+        "url": "https://platzi.com/cursos/java-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-kotlin-android-2d421d68-6d25-48de-88c3-c4f6163fe1de.png",
+        "name": "Curso de Kotlin para Android",
+        "url": "https://platzi.com/cursos/kotlin-android/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1386-b8a48176-0809-49b9-bde1-8664fe6c3a93.png",
+        "name": "Curso de Flutter",
+        "url": "https://platzi.com/cursos/flutter/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-avanzado-flutter-fb7e966a-b3e0-472c-a390-bbc0489d7812.png",
+        "name": "Curso Avanzado de Flutter",
+        "url": "https://platzi.com/cursos/flutter-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-arquitectura-android-7d864573-2062-4cdd-baa8-ab33f30c1f46.png",
+        "name": "Curso de Arquitectura de Android",
+        "url": "https://platzi.com/cursos/arquitectura-android/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-firebase-realtime-android-ce3e2a34-1cf8-4dbc-ad5e-261d778af40d.png",
+        "name": "Curso de Firestore para Android",
+        "url": "https://platzi.com/cursos/firestore/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo Backend con Java",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-poo-513deb20-a5bd-40a7-b97a-c36dc772d512.png",
+        "name": "Curso de Programación Orientada a Objetos: POO",
+        "url": "https://platzi.com/cursos/oop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-cursobasicojavase-2c55da9d-3573-4bef-b071-60a4b13f60ae.png",
+        "name": "Curso de Introducción a Java SE",
+        "url": "https://platzi.com/cursos/java-basico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-poo-java-se-233f2a59-f5a1-4a7b-9a98-60003303026f.png",
+        "name": "Curso de Java SE Orientado a Objetos",
+        "url": "https://platzi.com/cursos/java-oop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-java-se-persistencia-datos-ca571436-58b0-4303-91dd-2612cc3cddd0.png",
+        "name": "Curso de Java SE Persistencia de Datos",
+        "url": "https://platzi.com/cursos/java-persistencia/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1236-21df15a8-5fb9-4c82-81df-187ce86367be.png",
+        "name": "Curso Avanzado de Java SE",
+        "url": "https://platzi.com/cursos/java-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-basico-testing-java-29e71f98-06e3-4ce3-8417-218ee0cfaf4a.png",
+        "name": "Curso Básico de Testing en Java",
+        "url": "https://platzi.com/cursos/testing-java/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-hibernate-y-java-spring-060576c4-7b58-4a0a-a00c-be63750af97c.png",
+        "name": "Curso de Hibernate y Java Spring",
+        "url": "https://platzi.com/cursos/jee/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo con IBM Cloud",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-javascript-61c15bdf-0a83-4aed-8537-b4753e4071e1.png",
+        "name": "Fundamentos de JavaScript",
+        "url": "https://platzi.com/cursos/fundamentos-javascript/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-ing-software-2017-18f503fd-36bd-42d8-b1a1-492865659687.png",
+        "name": "Fundamentos de Ingeniería de Software",
+        "url": "https://platzi.com/cursos/ingenieria/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1219-963070ef-0244-4846-aaf5-59b57233aecd.png",
+        "name": "Fundamentos de IBM Cloud",
+        "url": "https://platzi.com/cursos/ibm-cloud/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-devops-d3e8b2ef-b2ef-4a16-8a4a-ac0e6953b054.png",
+        "name": "Curso Profesional de DevOps",
+        "url": "https://platzi.com/cursos/devops/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-fundamentos-docker-ef085173-492c-4076-b457-78af9155f8c0.png",
+        "name": "Fundamentos de Docker",
+        "url": "https://platzi.com/cursos/docker/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1288-9d5baa11-13e8-42f7-a678-4930e75b2c1a.png",
+        "name": "Curso de Inteligencia Artificial con IBM Watson",
+        "url": "https://platzi.com/cursos/ibm-watson/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ibm-watson-avanzado-c249e056-24d6-4c7d-b152-f8e668d699d6.png",
+        "name": "Curso Avanzado de IBM Watson",
+        "url": "https://platzi.com/cursos/watson-avanzado/"
+      }
+    ]
+  },
+  {
+    "route-title": "Escuela de Javascript",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-prework-da6b0493-9908-40f3-ad53-f5d330b995b8.png",
+        "name": "Curso de Prework: Buenas Prácticas y Entorno de Desarrollo",
+        "url": "https://platzi.com/clases/prework/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-frontend-developer-8a49e681-3e22-408d-b886-2f47dfc9953a.png",
+        "name": "Curso de Frontend Developer",
+        "url": "https://platzi.com/clases/frontend-developer/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-javascript-61c15bdf-0a83-4aed-8537-b4753e4071e1.png",
+        "name": "Fundamentos de JavaScript",
+        "url": "https://platzi.com/clases/fundamentos-javascript/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-profesional-javascript-13538df2-24ce-433f-9aa6-e34eed608e70.png",
+        "name": "Curso Profesional de JavaScript",
+        "url": "https://platzi.com/clases/javascript-profesional/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-react-adec89d0-1c35-4c9c-847e-18c284dc79dd.png",
+        "name": "Curso Práctico de React JS",
+        "url": "https://platzi.com/clases/react-ejs/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-react-redux-2ca3c0a5-fc53-437f-bfba-69e9ddd5a803.png",
+        "name": "Curso de React Router y Redux",
+        "url": "https://platzi.com/clases/react-router-redux/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-backend-node-8e6aa8a9-f7cd-42b7-bf4a-e1ee916a942b.png",
+        "name": "Curso de Backend con Node.js",
+        "url": "https://platzi.com/clases/backend-nodejs/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-server-side-render-dec727dc-c4b2-4beb-a1d1-d43f614d7818.png",
+        "name": "Curso de Server Side Render con Express",
+        "url": "https://platzi.com/clases/ssr/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-autenticacion-passport-6d45426a-2b24-4757-8927-7bfaf54529dd.png",
+        "name": "Curso de Autenticación con Passport.js",
+        "url": "https://platzi.com/clases/passport/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-backend-frontend-1-fa996c02-201a-43ff-b4bc-41bb6ce35b1d.png",
+        "name": "Curso de Integración Backend con Frontend",
+        "url": "https://platzi.com/clases/bff/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/clases/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-portafolio-cv-309acfd7-4c85-4efc-81b7-6b3b3488cf74.png",
+        "name": "Curso de Creación de Portafolio y CV",
+        "url": "https://platzi.com/clases/portafolios/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo con Vue.js",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1050-bfb74f83-8e2e-4ff7-a66d-77d2c0067908.png",
+        "name": "Curso Gratis de Programación Básica",
+        "url": "https://platzi.com/cursos/programacion-basica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1350-09ddb033-354b-4c0c-84a4-56cbb71d0b08.png",
+        "name": "Curso de Desarrollo Web Online",
+        "url": "https://platzi.com/cursos/html5-css3/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1390-a7211209-7103-496d-958a-52cb8b05b116.png",
+        "name": "Curso de WPO: Optimización de Carga de Sitios Web",
+        "url": "https://platzi.com/cursos/optimizacion-web/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1362-87c8ad3d-a50d-41a2-b023-ad838594e1c9.png",
+        "name": "Curso de Responsive Design",
+        "url": "https://platzi.com/cursos/responsive-design/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1229-dbff8a06-bcca-48e9-98e3-1fd76d6216f3.png",
+        "name": "Curso de CSS Grid Layout",
+        "url": "https://platzi.com/cursos/css-grid-layout/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-javascript-61c15bdf-0a83-4aed-8537-b4753e4071e1.png",
+        "name": "Fundamentos de JavaScript",
+        "url": "https://platzi.com/cursos/fundamentos-javascript/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-vue-js-profesional-943bb345-d1ac-4573-8805-7891cf2276e7.png",
+        "name": "Curso Profesional de VueJS",
+        "url": "https://platzi.com/cursos/vuejs-profesional/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-vue-avanzado-cda6259c-ec3d-477a-ae5f-5455bce23769.png",
+        "name": "Curso Avanzado de Vue.js y Firebase por Bedu",
+        "url": "https://platzi.com/cursos/vuejs-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-graphql-2e658b66-c0b9-4b33-8f84-c1b7311be302.png",
+        "name": "Curso Básico de GraphQL",
+        "url": "https://platzi.com/cursos/graphql/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1124-a91c148f-2b36-4a21-9354-c3b2170339e9.png",
+        "name": "Curso de Electron: Apps de escritorio en Windows y Mac",
+        "url": "https://platzi.com/cursos/electron/"
+      }
+    ]
+  },
+  {
+    "route-title": "Internet of Things",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pensamiento-logico-3e33eb45-302d-408a-a624-bee4e57118d3.png",
+        "name": "Curso de Pensamiento Lógico",
+        "url": "https://platzi.com/cursos/pensamiento-logico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-algoritmos-c236ef79-8ebb-44c9-b0c0-9f233d6ce18b.png",
+        "name": "Curso Básico de Algoritmos",
+        "url": "https://platzi.com/cursos/algoritmos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-c-mas-mas-712af3af-9115-444b-9afa-c41e1e130e5e.png",
+        "name": "Introducción a C++",
+        "url": "https://platzi.com/cursos/c-plus-plus/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-electronica-d958470b-87bf-41e3-b98b-97a5ca1e9663.png",
+        "name": "Curso de Fundamentos de Electricidad y Electrónica",
+        "url": "https://platzi.com/cursos/electronica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-circuitos-fba3d2e7-65b9-412f-b040-6ce966221e1c.png",
+        "name": "Curso Básico de Circuitos Electrónicos",
+        "url": "https://platzi.com/cursos/fundamentos-circuitos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1252-e585c35b-3594-4c32-a474-12ab7c913af3.png",
+        "name": "Fundamentos de Desarrollo de Hardware con Arduino",
+        "url": "https://platzi.com/cursos/fundamentos-arduino/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-intro-iot-d5fd9c07-a18e-487a-8ff8-cc4f2a8b3ff2.png",
+        "name": "Curso de Introducción al IoT",
+        "url": "https://platzi.com/cursos/iot/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1341-e95a313d-5bfe-42ae-a476-f7ae1a665bd6.png",
+        "name": "Curso de Diseño de Circuitos Electrónicos",
+        "url": "https://platzi.com/cursos/circuitos-electronicos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/ubsik_c3-a61fed33-1feb-417f-b18e-db120c28dbcf.png",
+        "name": "Curso de IoT: Protocolos de Comunicación",
+        "url": "https://platzi.com/cursos/iot-protocolos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ibm-watson-avanzado-c249e056-24d6-4c7d-b152-f8e668d699d6.png",
+        "name": "Curso Avanzado de IBM Watson",
+        "url": "https://platzi.com/cursos/watson-avanzado/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-computo-aws-08dc8f87-552f-4954-b956-2eacdfc94a88.png",
+        "name": "Curso de Cloud Computing con AWS",
+        "url": "https://platzi.com/cursos/aws-computo/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1151-5473abdf-3ce0-40b4-a5f1-2d285299f999.png",
+        "name": "Curso Avanzado de Node.js",
+        "url": "https://platzi.com/cursos/nodejs/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo de Videojuegos con Unity",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1062-a0902629-58e7-4255-8fb5-cbdcc865a259.png",
+        "name": "Curso de Creación de Videojuegos",
+        "url": "https://platzi.com/cursos/creacion-videojuegos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1348-a4002e1c-0d2a-47f3-8bb8-67f464e7f0a8.png",
+        "name": "Curso de Diseño de Videojuegos 2018",
+        "url": "https://platzi.com/cursos/diseno-videojuegos-2018/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-direccion-videojuegos2-7df4e95c-9c0b-47a1-8c2f-d915acc02035.png",
+        "name": "Curso de Dirección de Videojuegos",
+        "url": "https://platzi.com/cursos/avanzado-videojuegos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pensamiento-logico-3e33eb45-302d-408a-a624-bee4e57118d3.png",
+        "name": "Curso de Pensamiento Lógico",
+        "url": "https://platzi.com/cursos/pensamiento-logico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-algoritmos-c236ef79-8ebb-44c9-b0c0-9f233d6ce18b.png",
+        "name": "Curso Básico de Algoritmos",
+        "url": "https://platzi.com/cursos/algoritmos/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-poo-513deb20-a5bd-40a7-b97a-c36dc772d512.png",
+        "name": "Curso de Programación Orientada a Objetos: POO",
+        "url": "https://platzi.com/cursos/oop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1375-954e9dd1-7577-476e-a2e1-85710d5d2c62.png",
+        "name": "Fundamentos de C# con NET Core",
+        "url": "https://platzi.com/cursos/fundamentos-csharp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-unity2d-492971e8-71de-448b-829b-cd17f3c0f6df.png",
+        "name": "Curso de Programación de Videojuegos 2D con Unity",
+        "url": "https://platzi.com/cursos/unity-2d/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-c-videojuegos-69d46a30-5392-48d5-8c0e-d0d08c1ba7f8.png",
+        "name": "Curso de C# para Videojuegos",
+        "url": "https://platzi.com/cursos/desarrollo-unity/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-movil-unity-d623ff72-9eb6-4f81-b257-36fc912c3d8a.png",
+        "name": "Curso de Desarrollo de Videojuegos para Móviles con Unity",
+        "url": "https://platzi.com/cursos/movil-unity/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-rpg-unity-b4c63b4f-1721-4db4-befc-bbd96740ade0.png",
+        "name": "Curso Avanzado de Creación de RPGs con Unity",
+        "url": "https://platzi.com/cursos/rpg-unity/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-vrar-unity-69b8361d-c45c-46fa-a47b-2f7da13b0449.png",
+        "name": "Curso de VR con Unity",
+        "url": "https://platzi.com/cursos/vr-unity/"
+      }
+    ]
+  },
+  {
+    "route-title": "Blockchain y Criptomonedas",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1317-53b1a046-5722-482b-8ac4-be73884d999e.png",
+        "name": "Curso de Inversión en Criptomonedas",
+        "url": "https://platzi.com/cursos/inversion-criptomonedas/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1379-21fa98c6-dc52-4dbb-97aa-6c759a459a96.png",
+        "name": "Curso de ICO: Initial Coin Offering",
+        "url": "https://platzi.com/cursos/ico/"
+      }
+    ]
+  },
+  {
+    "route-title": "Amazon Web Services",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1323-b1cdbbea-6d17-4d0d-a3d1-ec8b5700dae6.png",
+        "name": "Curso de Fundamentos de AWS Cloud",
+        "url": "https://platzi.com/cursos/aws-cloud/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-computo-aws-08dc8f87-552f-4954-b956-2eacdfc94a88.png",
+        "name": "Curso de Cloud Computing con AWS",
+        "url": "https://platzi.com/cursos/aws-computo/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-aws-storage-7216e86a-d798-4943-a148-c39bd1a20f25.png",
+        "name": "Curso de Storage en AWS",
+        "url": "https://platzi.com/cursos/storage-aws/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-batabase-aws-46362796-bae4-464f-8643-c69a9d8b17da.png",
+        "name": "Curso de Bases de Datos en AWS",
+        "url": "https://platzi.com/cursos/db-aws/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-networking-aws-f11f2e85-01b0-4573-8b14-a785cef4b31b.png",
+        "name": "Curso de Networking y Content Delivery en AWS",
+        "url": "https://platzi.com/cursos/networking-content/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-infraestructura-codigo-aws-523f9344-e19f-4d04-bd06-8b6c159e95e7.png",
+        "name": "Curso de Infraestructura Como Código en AWS",
+        "url": "https://platzi.com/cursos/iaac-aws/"
+      }
+    ]
+  },
+  {
+    "route-title": "Seguridad Informática",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/1277-9358e87f-0435-48a4-b158-3d6bde87bca0.png",
+        "name": "Curso de Redes de Internet",
+        "url": "https://platzi.com/cursos/redes/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-proteccion-datos-8cae4022-f7a1-433b-b640-173991447490.png",
+        "name": "Curso de DLP: Prevención de Pérdida de Datos",
+        "url": "https://platzi.com/cursos/dlp/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-introduccion-seguridad-informatica-905ce3cb-b80b-48a6-97ae-d438567a1d24.png",
+        "name": "Curso de Introducción a la Seguridad Informática",
+        "url": "https://platzi.com/cursos/seguridad-informatica/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pentesting-42f11c0b-b153-4935-b501-2806a1c62377.png",
+        "name": "Curso de Fundamentos de Pentesting",
+        "url": "https://platzi.com/cursos/pentesting/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-analisis-forense-52db4679-4df1-4859-9c87-0d2efb58cd14.png",
+        "name": "Curso de Informática Forense",
+        "url": "https://platzi.com/cursos/forense/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-ethical-hacking-7882aa60-a295-4abd-8891-b60c482700cf.png",
+        "name": "Curso de Hacking Ético",
+        "url": "https://platzi.com/cursos/ethical-hacking/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-autenticacion-ouath-a080c113-e5b5-4cd5-8fdf-3ec723355354.png",
+        "name": "Curso de Autenticación con OAuth",
+        "url": "https://platzi.com/cursos/autenticacion-oauth/"
+      }
+    ]
+  },
+  {
+    "route-title": "iOS Mobile Developer",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-pensamiento-logico-3e33eb45-302d-408a-a624-bee4e57118d3.png",
+        "name": "Curso de Pensamiento Lógico",
+        "url": "https://platzi.com/cursos/pensamiento-logico/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-programacion-estructurada-daded553-019d-4831-b683-e171d6b33167.png",
+        "name": "Curso de Programación Estructurada",
+        "url": "https://platzi.com/cursos/programacion-estructurada/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-poo-513deb20-a5bd-40a7-b97a-c36dc772d512.png",
+        "name": "Curso de Programación Orientada a Objetos: POO",
+        "url": "https://platzi.com/cursos/oop/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-interfaces-ios-1c1aa956-dea6-4d7c-84b1-ec4c0edfbd0d.png",
+        "name": "Curso de Desarrollo de Interfaces con iOS",
+        "url": "https://platzi.com/cursos/interfaces-ios/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-aplicaciones-ios-cf5b4f00-ef45-4c92-9e99-e03bd1dc409d.png",
+        "name": "Curso de Desarrollo de Aplicaciones iOS",
+        "url": "https://platzi.com/cursos/apps-ios/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo Backend con JavaScript",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-github-0b729570-934d-47d8-ba6b-610d7f15e0ec.png",
+        "name": "Curso Profesional de Git y GitHub",
+        "url": "https://platzi.com/cursos/git-github/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-javascript-61c15bdf-0a83-4aed-8537-b4753e4071e1.png",
+        "name": "Fundamentos de JavaScript",
+        "url": "https://platzi.com/cursos/fundamentos-javascript/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1381-dcfd04d5-413e-4e82-a96b-ffa4702d9c09.png",
+        "name": "Curso de Esenciales de Node.js",
+        "url": "https://platzi.com/cursos/node-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-graphql-2e658b66-c0b9-4b33-8f84-c1b7311be302.png",
+        "name": "Curso Básico de GraphQL",
+        "url": "https://platzi.com/cursos/graphql/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-node-js-54cb43fe-527e-4315-9472-81021bac36a7.png",
+        "name": "Curso de Node.js",
+        "url": "https://platzi.com/cursos/backend-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1376-881b3368-afa8-49a9-958c-077afe664537.png",
+        "name": "Curso de Node.js con Hapi",
+        "url": "https://platzi.com/cursos/hapi-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-express-43987e06-2d8c-4f0d-89d4-c4aecd2135dd.png",
+        "name": "Curso de Express.js",
+        "url": "https://platzi.com/cursos/express-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-programacion-funcional-js-a4a32291-e53e-4322-9e80-f5297d636ab1.png",
+        "name": "Curso de Programación Funcional en JavaScript por Bedu",
+        "url": "https://platzi.com/cursos/funcional-js/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1151-5473abdf-3ce0-40b4-a5f1-2d285299f999.png",
+        "name": "Curso Avanzado de Node.js",
+        "url": "https://platzi.com/cursos/nodejs/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1197-244dd89b-f37d-4c0b-993e-7e13a59e103f.png",
+        "name": "Curso de JavaScript Full Stack con Sails.js",
+        "url": "https://platzi.com/cursos/javascript-pro/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1411-1816ae61-c618-49d5-8b10-760e7bc9ad56.png",
+        "name": "Curso de End to End Testing con Cypress",
+        "url": "https://platzi.com/cursos/testing-cypress/"
+      }
+    ]
+  },
+  {
+    "route-title": "Desarrollo Backend con Ruby on Rails",
+    "courses": [
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-ruby-559bd5aa-82dd-489e-b830-55096178c714.png",
+        "name": "Curso de Ruby",
+        "url": "https://platzi.com/cursos/ruby/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-batabase-aws-46362796-bae4-464f-8643-c69a9d8b17da.png",
+        "name": "Curso de Bases de Datos en AWS",
+        "url": "https://platzi.com/cursos/db-aws/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badge-fundamentos-de-bases-de-datos-cc5eff2a-a7e0-4110-af5d-a47b628611da.png",
+        "name": "Fundamentos de Bases de Datos",
+        "url": "https://platzi.com/cursos/bd/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/badges-ruby-rails-297c09a5-7a93-4df2-a039-8dda66acccdb.png",
+        "name": "Curso de Creación de APIs con Ruby on Rails",
+        "url": "https://platzi.com/cursos/ror/"
+      },
+      {
+        "badge": "https://static.platzi.com/media/achievements/1331-cda68a62-24e5-464a-95ca-6e5d339c7244.png",
+        "name": "Curso de Bootstrap",
+        "url": "https://platzi.com/cursos/bootstrap/"
+      }
+    ]
+  }
+]
